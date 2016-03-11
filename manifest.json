@@ -1,4 +1,12 @@
 {
+  "applications": {
+    "gecko": {
+      "id": "eff.software.projects@gmail.com",
+      "strict_min_version": "42.0",
+      "strict_max_version": "50.*",
+      "update_url": "http://clients2.google.com/service/update2/crx"
+    }
+  },
   "version": "2015.8.14", 
   "author": {
     "email": "eff.software.projects@gmail.com"
