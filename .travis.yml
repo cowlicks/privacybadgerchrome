@@ -20,6 +20,19 @@ matrix:
       env: BROWSER="google-chrome-beta"
     - python: "2.7"
       env: BROWSER="firefox"
+    - python: "2.7"
+      env: BROWSER="firefox"
+      addons:
+        firefox: "latest"
+    - python: "2.7"
+      env: BROWSER="firefox"
+      addons:
+        firefox: "latest-esr"
+    - python: "2.7"
+      env: BROWSER="firefox"
+      addons:
+        firefox: "latest-beta"
+
   allow_failures:
     - python: "2.7"
       env: BROWSER="google-chrome-beta"
