@@ -12,6 +12,8 @@ make travisbuild # pack the extension
 ext_path=`ls -1tr $PWD/*.crx | tail -n 1` # get the last modified crx
 popd
 
+find / -name "*firefox*"
+
 # trap 'rm -rf PBTESTENV' EXIT  # Clean virtualenv dir on exit
 # virtualenv PBTESTENV
 # source PBTESTENV/bin/activate
