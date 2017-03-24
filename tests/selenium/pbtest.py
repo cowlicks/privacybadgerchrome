@@ -21,12 +21,13 @@ from selenium.webdriver.common.by import By
 PB_EXT_BG_URL_BASE = "chrome-extension://mcgekeccgjgcmhnhbabplanchdogjcnh/"
 SEL_DEFAULT_WAIT_TIMEOUT = 30
 MARIONETTE_PORT = 2828
+BROWSER = os.environ.get('BROWSER')
 
 attempts = {}
 
 
 def get_base_url():
-    if os.environ.get('BROWSER') != 'firefox':
+    if BROWSER != 'firefox':
         return PB_EXT_BG_URL_BASE
     from marionette_driver.marionette import Marionette
 
@@ -88,7 +89,7 @@ def driver_manager(driver):
 
 @contextmanager
 def firefox_manager():
-    cmd = ['./firefox_selenium.sh']
+    cmd = ['WEB_EXT_FIREFOX=%s' % (BROWSER,), './firefox_selenium.sh']
     proc = subprocess.Popen(cmd)
     time.sleep(2)
     ffcaps = DesiredCapabilities.FIREFOX

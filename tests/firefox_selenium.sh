@@ -6,6 +6,8 @@ export WEB_EXT_SOURCE_DIR=`dirname $PWD`
 export WEB_EXT_PREF="marionette.defaultPrefs.enabled=true"
 export WEB_EXT_FIREFOX="/usr/bin/firefox"
 
+echo `which firefox`
+
 ../node_modules/web-ext/bin/web-ext run &
 ext_PID=$!
 sleep 0.5
