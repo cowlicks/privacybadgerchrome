@@ -17,9 +17,10 @@ function receiveTweet(e) {
     window.parent.postMessage({'width': document.body.scrollWidth, 'height': document.body.scrollHeight}, '*');
   });
    
-  let config = {attributes: true};
+  let config = { attributes: true, childList: true, characterData: true };
   observer.observe(document.body, config);
 }
+
 window.addEventListener("message", receiveTweet, false);
 window.parent.postMessage("ready", '*');
 })();

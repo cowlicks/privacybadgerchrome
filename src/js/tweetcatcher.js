@@ -51,9 +51,14 @@ function listener(event, iframe, tweet) {
 
 function replacer(tweet) {
   let iframe = document.createElement('iframe');
-  iframe.sandbox = 'allow-scripts';
+  iframe.id = 'tweet-jail';
+  iframe.sandbox = 'allow-scripts allow-popups allow-popups-to-escape-sandbox';
   iframe.srcdoc = makeIframeSrcdoc();
-  iframe.frameBorder = "0";
+  iframe.frameBorder = '0';
+  iframe.width = '500px';
+  iframe.scrolling = 'no';
+  iframe.marginWidth = '0';
+  iframe.marginHeight = '0';
 
 
   window.addEventListener('message', (event) => {
@@ -61,6 +66,15 @@ function replacer(tweet) {
   });
   tweet.parentNode.insertBefore(iframe, tweet);
 }
+
+function insertCSS() {
+  let link = document.createElement('link');
+  link.rel = 'stylesheet';
+  link.type = 'text/css';
+  link.href = chrome.extension.getURL('js/tweet-jail.css');
+  document.head.appendChild(link);
+}
+
   
 function catchEm() {
   document.querySelectorAll('script[src="//platform.twitter.com/widgets.js"]').forEach((s) => {
@@ -72,5 +86,6 @@ function catchEm() {
     replacer(tweet);
   }
 }
-catchEm();
 
+insertCSS();
+catchEm();

@@ -60,7 +60,7 @@
         "http://badgers.cowlicks.website/*",
         "https://badgers.cowlicks.website/*"
       ],
-      "all_frames": true,
+      "all_frames": false,
       "run_at": "document_end"
     },
     {
@@ -114,6 +114,7 @@
   "options_page": "/skin/options.html",
   "web_accessible_resources": [
     "skin/socialwidgets/*",
+    "js/tweet-jail.css",
     "js/tweetjail.js"
   ]
 }
