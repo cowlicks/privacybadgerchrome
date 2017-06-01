@@ -64,7 +64,7 @@ function replacer(tweet) {
   window.addEventListener('message', (event) => {
     listener(event, iframe, tweet);
   });
-  tweet.parentNode.insertBefore(iframe, tweet);
+  tweet.parentNode.replaceChild(iframe, tweet);
 }
 
 function insertCSS() {
@@ -81,7 +81,7 @@ function catchEm() {
     s.remove();
   });
 
-  let tweets = document.querySelectorAll('[class~=twitter-tweet], [class=twitter-tweet]');
+  let tweets = document.querySelectorAll('blockquote[class~=twitter-tweet]');
   for (let tweet of tweets) {
     replacer(tweet);
   }
