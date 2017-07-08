@@ -123,7 +123,7 @@ Badger.prototype = {
             },
             ...
           },
-          trackers: {
+          origins: {
             domain.tld: bool
             ...
           }
@@ -181,7 +181,7 @@ Badger.prototype = {
               url: tab.url
             }
           },
-          trackers: {},
+          origins: {},
           blocked: {
             [constants.BLOCK]: {},
             [constants.USER_BLOCK]: {},
@@ -462,7 +462,7 @@ Badger.prototype = {
    * @returns {*} A dictionary of third party origins and their actions
    */
   getAllOriginsForTab: function(tabId) {
-    return Object.keys(this.tabData[tabId].trackers);
+    return Object.keys(this.tabData[tabId].origins);
   },
 
   /**
@@ -671,17 +671,17 @@ Badger.prototype = {
   },
 
   /**
-   * Add the tracker and action to the tabData[tabId] object
+   * Add the third party origin and action to the tabData[tabId] object
    * so it can be used for the popup and the badge count.
    *
    * @param tabId the tab we are on
-   * @param fqdn the tracker to add
+   * @param fqdn the third party origin to add
    * @param action the action we are taking
    *
    * @returns {boolean} true if badge count should be incremented
    **/
-  logTrackerOnTab: function(tabId, fqdn, action) {
-    this.tabData[tabId].trackers[fqdn] = action;
+  logThirdPartyOriginOnTab: function(tabId, fqdn, action) {
+    this.tabData[tabId].origins[fqdn] = action;
 
     if (constants.BLOCKED_ACTIONS.hasOwnProperty(action)) {
       if (!this.tabData[tabId].blocked[action].hasOwnProperty(fqdn)) {
