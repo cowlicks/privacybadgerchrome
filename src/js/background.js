@@ -242,6 +242,10 @@ Badger.prototype = {
   updateCookieBlockList: function (callback) {
     var self = this;
 
+    if (!callback) {
+      callback = _.noop;
+    }
+
     utils.xhrRequest(constants.COOKIE_BLOCK_LIST_URL, function (err, response) {
       if (err) {
         console.error(
@@ -251,11 +255,7 @@ Badger.prototype = {
           err.message
         );
 
-        if (callback) {
-          callback(false);
-        }
-
-        return;
+        return callback(false);
       }
 
       var cookieblock_list = self.storage.getBadgerStorageObject('cookieblock_list');
@@ -295,10 +295,7 @@ Badger.prototype = {
         }
       });
 
-      if (callback) {
-        callback(true);
-      }
-
+      return callback(true);
     });
   },
 
