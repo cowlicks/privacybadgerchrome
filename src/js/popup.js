@@ -106,6 +106,7 @@ function init() {
 
   var version = i18n.getMessage("version") + " " +  chrome.runtime.getManifest().version;
   $("#version").text(version);
+  adjustNoInitialBlockingLink();
 }
 $(init);
 
