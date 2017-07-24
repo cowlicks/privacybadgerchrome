@@ -502,6 +502,21 @@ function syncUISelections() {
   }
 }
 
+
+/**
+* Hide or show additional info depending on if there is any additional info
+*/
+function adjustNoInitialBlockingLink() {
+  getTab(tab => {
+    if (badger.blockedOriginCount(tab.id) == 0) {
+      $("#noBlockingLink").show();
+    } else {
+      $("#noBlockingLink").hide();
+    }
+  });
+}
+
+
 /**
 * We use this function where:
 * * getting the tabId from the associatedTab id won't work because
