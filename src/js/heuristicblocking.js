@@ -131,12 +131,14 @@ HeuristicBlocker.prototype = {
       return {};
     }
 
-    // ignore if there are no tracking cookies
-    if (!hasCookieTracking(details, origin)) {
-      return {};
-    }
-
-    this._recordPrevalence(fqdn, origin, tabOrigin);
+    let self = this;
+    window.setTimeout(() => {
+      // record if there are no tracking cookies
+      if (hasCookieTracking(details, origin)) {
+        self._recordPrevalence(fqdn, origin, tabOrigin);
+      }
+    });
+    return {};
   },
 
   /**
