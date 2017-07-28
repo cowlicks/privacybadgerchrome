@@ -25,6 +25,9 @@ window.log = function (/*...*/) {
   if(window.DEBUG) {
     console.log.apply(console, arguments);
   }
+  if(window.badger && window.badger.debugLog) {
+    window.badger.debugLog.doLog(arguments);
+  }
 };
 
 /**

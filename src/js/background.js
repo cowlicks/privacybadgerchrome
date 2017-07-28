@@ -37,6 +37,7 @@ var incognito = require("incognito");
 */
 function Badger() {
   var badger = this;
+  this.debugLog = new utils.DebugLog();
   this.userAllow = [];
   this.webRTCAvailable = checkWebRTCBrowserSupport();
   this.storage = new pbStorage.BadgerPen(function(thisStorage) {
