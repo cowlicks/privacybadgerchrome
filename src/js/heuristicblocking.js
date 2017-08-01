@@ -212,6 +212,7 @@ HeuristicBlocker.prototype = {
 // TODO: We need a better heuristic
 var lowEntropyCookieValues = {
   "":3,
+  "prod": 3,
   "nodata":3,
   "no_data":3,
   "yes":3,
