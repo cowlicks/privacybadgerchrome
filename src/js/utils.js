@@ -243,22 +243,22 @@ function sha1(input, callback) {
   });
 }
 
+let COOKIE_ATTRIBUTES = new Set([
+  "domain",
+  "expires",
+  "httponly",
+  "max-age",
+  "path",
+  "secure",
+  "session",
+]);
+
 function parseCookie(str, opts) {
   if (!str) {
     return {};
   }
 
   opts = opts || {};
-
-  let COOKIE_ATTRIBUTES = [
-    "domain",
-    "expires",
-    "httponly",
-    "max-age",
-    "path",
-    "secure",
-    "session",
-  ];
 
   let parsed = {},
     cookies = str.replace(/\n/g, ";").split(";");
@@ -289,7 +289,7 @@ function parseCookie(str, opts) {
     }
 
     if (opts.skipAttributes &&
-        COOKIE_ATTRIBUTES.indexOf(name.toLowerCase()) != -1) {
+        COOKIE_ATTRIBUTES.has(name.toLowerCase())) {
       continue;
     }
 
