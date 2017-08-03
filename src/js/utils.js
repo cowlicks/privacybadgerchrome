@@ -257,6 +257,7 @@ function parseCookie(str, opts) {
     "max-age",
     "path",
     "secure",
+    "session",
   ];
 
   let parsed = {},
