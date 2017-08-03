@@ -131,12 +131,12 @@
 
   QUnit.test("Cookie attributes shouldn't add to entropy", (assert) => {
     let ATTR_COOKIES = [
-      'test-cookie=true; Expires=Thu, 01-Jan-1970 00:00:01 GMT; Path=/; Domain=.parrable.com',
+      'test-cookie=true; Expires=Thu, 01-Jan-1970 00:00:01 GMT; Path=/; Domain=.parrable.com; session=writeemailstoday',
       '__usd_latimes.com=; expires=Wed, 03-May-2017 01:20:20 GMT; domain=.go.sonobi.com; path=/',
       'ses55=; Domain=.rubiconproject.com; Path=/; Expires=Wed, 03-May-2017 11:59:59 GMT; Max-Age=38407',
       'vf=5;Version=1;Comment=;Domain=.contextweb.com;Path=/;Max-Age=9583',
       'PUBMDCID=2; domain=pubmatic.com; expires=Tue, 01-Aug-2017 01:20:21 GMT; path=/',
-      'tc=; path=/; Max-Age=31536000; expires=Thu, 03 May 2018 01:20:21 GMT',
+      'tc=; path=/; Max-Age=31536000; expires=Thu, 03 May 2018 01:20:21 GMT; Session=true',
       'uid=; path=/; expires=Wed, 03 May 2017 01:20:31 GMT; domain=medium.com; secure; httponly',
     ];
 
