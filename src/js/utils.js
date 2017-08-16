@@ -339,7 +339,11 @@ DebugLog.prototype = {
   maxSize: 300,
 
    // Add an entry to the logBook. This is always O(1).
-  doLog: function(msg) {
+  doLog: function(toLog) {
+    let msg = Array.from(toLog).map(e => {return e.toString();});
+    if (typeof msg == 'undefined') {
+      return;
+    }
     this.logBook[this.index] = msg;
     this.index = this.mod(this.index + 1);
   },
