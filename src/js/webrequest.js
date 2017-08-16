@@ -678,6 +678,12 @@ function dispatcher(request, sender, sendResponse) {
 
   } else if (request.superCookieReport) {
     if (badger.hasSuperCookie(request.superCookieReport)){
+      window.scLog(
+        'ls supercoookie found',
+        JSON.stringify({'tabURL': sender.tab.url,
+          'frameId': sender.frameId,
+          'url': sender.url})
+      );
       recordSuperCookie(sender, request.superCookieReport);
     }
   } else if (request.checkEnabledAndThirdParty) {

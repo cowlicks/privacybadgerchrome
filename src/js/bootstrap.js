@@ -30,6 +30,10 @@ window.log = function (/*...*/) {
   }
 };
 
+window.scLog = function () {
+  window.badger.superCookieLog.doLog(arguments);
+};
+
 /**
  * Basic implementation of requirejs
  * for requiring other javascript files
