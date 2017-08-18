@@ -339,16 +339,14 @@ function recordFrame(tabId, frameId, parentFrameId, frameUrl) {
  * Record "supercookie" tracking
  *
  * @param sender message sender
- * @param msg super cookie message dict
  */
-function recordSuperCookie(sender, msg) {
+function recordSuperCookie(sender) {
   if (incognito.tabIsIncognito(sender.tab.id)) {
     return;
   }
 
-  // docUrl: url of the frame with supercookie
-  var frameHost = window.extractHostFromURL(msg.docUrl);
-  var pageHost = window.extractHostFromURL(getFrameUrl(sender.tab.id, 0));
+  var frameHost = window.extractHostFromURL(sender.url);
+  var pageHost = window.extractHostFromURL(sender.tab.url);
 
   if (!isThirdPartyDomain(frameHost, pageHost)) {
     // Only happens on the start page for google.com
@@ -669,7 +667,7 @@ function dispatcher(request, sender, sendResponse) {
 
   } else if (request.superCookieReport) {
     if (badger.hasSuperCookie(request.superCookieReport)){
-      recordSuperCookie(sender, request.superCookieReport);
+      recordSuperCookie(sender);
     }
   } else if (request.checkEnabledAndThirdParty) {
     var pageHost = window.extractHostFromURL(sender.url);
@@ -689,10 +687,5 @@ function startListeners() {
   chrome.runtime.onMessage.addListener(dispatcher);
 }
 
-/************************************** exports */
-var exports = {};
-exports.getHostForTab = getHostForTab;
-exports.startListeners = startListeners;
-return exports;
-/************************************** exports */
+return {getHostForTab, startListeners, recordSuperCookie, getFrameUrl};
 })();
