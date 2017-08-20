@@ -1,0 +1,1812 @@
+{
+    "badger_data": {
+        "action_map": {
+            "a3698060313.cdn.optimizely.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503473055914,
+                "userAction": ""
+            },
+            "aa.agkn.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503545729014,
+                "userAction": ""
+            },
+            "aax-us-east.amazon-adsystem.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503591793008,
+                "userAction": ""
+            },
+            "abmr.net": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "abs.twimg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503810158054,
+                "userAction": ""
+            },
+            "accounts.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 1503736534595,
+                "userAction": ""
+            },
+            "adobe.tt.omtrdc.net": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503486098895,
+                "userAction": ""
+            },
+            "advertising.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "ajax.googleapis.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503503651118,
+                "userAction": ""
+            },
+            "ak1s.abmr.net": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503823936138,
+                "userAction": ""
+            },
+            "analytics.twitter.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503440481753,
+                "userAction": ""
+            },
+            "api.branch.io": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503753560937,
+                "userAction": ""
+            },
+            "api.demandbase.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503372634332,
+                "userAction": ""
+            },
+            "apis.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 1503486116896,
+                "userAction": ""
+            },
+            "app.link": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503476070102,
+                "userAction": ""
+            },
+            "assets.adobedtm.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503811187039,
+                "userAction": ""
+            },
+            "assets.onestore.ms": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503586838254,
+                "userAction": ""
+            },
+            "atdmt.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "az725175.vo.msecnd.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503622248657,
+                "userAction": ""
+            },
+            "bat.bing.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503796745509,
+                "userAction": ""
+            },
+            "bing.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "books.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "bs.serving-sys.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503589040069,
+                "userAction": ""
+            },
+            "c.s-microsoft.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503540954820,
+                "userAction": ""
+            },
+            "c.statcounter.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503525276424,
+                "userAction": ""
+            },
+            "calendar.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "cdn.livechatinc.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503368847139,
+                "userAction": ""
+            },
+            "cdn.optimizely.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503842855995,
+                "userAction": ""
+            },
+            "cdnssl.clicktale.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503488744378,
+                "userAction": ""
+            },
+            "checkout.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "clients1.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "code.etracker.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503821043794,
+                "userAction": ""
+            },
+            "collect.tealiumiq.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503408271301,
+                "userAction": ""
+            },
+            "collector-1054.tvsquared.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503575109938,
+                "userAction": ""
+            },
+            "connect.facebook.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503796321696,
+                "userAction": ""
+            },
+            "consent.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "convertro.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "cse.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "csync.flickr.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503809171850,
+                "userAction": ""
+            },
+            "csync.yahooapis.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503412821303,
+                "userAction": ""
+            },
+            "ct.pinterest.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503744678995,
+                "userAction": ""
+            },
+            "cx.atdmt.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503807762239,
+                "userAction": ""
+            },
+            "d1ivexoxmp59q7.cloudfront.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503795829166,
+                "userAction": ""
+            },
+            "dc.ads.linkedin.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503815159022,
+                "userAction": ""
+            },
+            "demdex.net": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "developers.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "dnn506yrbagrg.cloudfront.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503721749330,
+                "userAction": ""
+            },
+            "docs.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "doubleclick.net": {
+                "dnt": false,
+                "heuristicAction": "block",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "dpm.demdex.net": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503684325868,
+                "userAction": ""
+            },
+            "drive.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "f.vimeocdn.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503441459252,
+                "userAction": ""
+            },
+            "facebook.com": {
+                "dnt": false,
+                "heuristicAction": "block",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "feedburner.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "flickr.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "fonts.googleapis.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503741206148,
+                "userAction": ""
+            },
+            "fonts.gstatic.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503747341618,
+                "userAction": ""
+            },
+            "freegeoip.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503474887841,
+                "userAction": ""
+            },
+            "fusiontables.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "godaddy.sp1.convertro.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503683405541,
+                "userAction": ""
+            },
+            "google.com": {
+                "dnt": false,
+                "heuristicAction": "block",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "googleads.g.doubleclick.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503524446933,
+                "userAction": ""
+            },
+            "googleads4.g.doubleclick.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503853842516,
+                "userAction": ""
+            },
+            "gravatar.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503826248155,
+                "userAction": ""
+            },
+            "groups.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "gtrk.s3.amazonaws.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503508447643,
+                "userAction": ""
+            },
+            "i.vimeocdn.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503630925695,
+                "userAction": ""
+            },
+            "i.ytimg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503836324918,
+                "userAction": ""
+            },
+            "i2.wp.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503613160903,
+                "userAction": ""
+            },
+            "idsync.rlcdn.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503373832151,
+                "userAction": ""
+            },
+            "images-na.ssl-images-amazon.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503814994241,
+                "userAction": ""
+            },
+            "img-prod-cms-rt-microsoft-com.akamaized.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503618671025,
+                "userAction": ""
+            },
+            "img1.wsimg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503639800159,
+                "userAction": ""
+            },
+            "ing-district.clicktale.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503800257662,
+                "userAction": ""
+            },
+            "kh.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "khms0.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "khms1.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "khms2.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "khms3.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "khms4.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "labs.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "lh3.googleusercontent.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503570570033,
+                "userAction": ""
+            },
+            "licdn.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "linkedin.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "logx.optimizely.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503438328444,
+                "userAction": ""
+            },
+            "lptag.liveperson.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503488382172,
+                "userAction": ""
+            },
+            "m.media-amazon.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503459110886,
+                "userAction": ""
+            },
+            "maps-api-ssl.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "maps.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "mapsengine.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "marinsm.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "mathtag.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "mboxedge20.tt.omtrdc.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503553734062,
+                "userAction": ""
+            },
+            "media.licdn.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503594079619,
+                "userAction": ""
+            },
+            "mem.gfx.ms": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503804233901,
+                "userAction": ""
+            },
+            "mscom.demdex.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503462640580,
+                "userAction": ""
+            },
+            "mt0.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "mt1.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "mts0.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "mts1.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "mw1.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "mw2.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "omtrdc.net": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "pagead2.googlesyndication.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503683772211,
+                "userAction": ""
+            },
+            "pbs.twimg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503734151519,
+                "userAction": ""
+            },
+            "picasaweb.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "pinterest.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "pixel.advertising.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503540360163,
+                "userAction": ""
+            },
+            "pixel.mathtag.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503528516385,
+                "userAction": ""
+            },
+            "pixel.quantserve.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503727696176,
+                "userAction": ""
+            },
+            "platform.twitter.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503530543885,
+                "userAction": ""
+            },
+            "play.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "plus.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "pubads.g.doubleclick.net": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503757423416,
+                "userAction": ""
+            },
+            "px.airpr.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503665603464,
+                "userAction": ""
+            },
+            "quantserve.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "radar.cedexis.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503365552547,
+                "userAction": ""
+            },
+            "rlcdn.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "rules.quantcount.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503428697226,
+                "userAction": ""
+            },
+            "s-media-cache-ak0.pinimg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503529837570,
+                "userAction": ""
+            },
+            "s-static.ak.facebook.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "s.pinimg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503566502856,
+                "userAction": ""
+            },
+            "s.w.org": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503468023139,
+                "userAction": ""
+            },
+            "s.yimg.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503400125877,
+                "userAction": ""
+            },
+            "s.ytimg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503792647233,
+                "userAction": ""
+            },
+            "s0.2mdn.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503769549265,
+                "userAction": ""
+            },
+            "s0.wp.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503735367206,
+                "userAction": ""
+            },
+            "s1.wp.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503662668112,
+                "userAction": ""
+            },
+            "sb.scorecardresearch.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503803553966,
+                "userAction": ""
+            },
+            "scontent-lax3-1.xx.fbcdn.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503510422258,
+                "userAction": ""
+            },
+            "scorecardresearch.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "script.crazyegg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503504137030,
+                "userAction": ""
+            },
+            "sdk.accountkit.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503408618444,
+                "userAction": ""
+            },
+            "secure-ds.serving-sys.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503543314216,
+                "userAction": ""
+            },
+            "secure.gravatar.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503426608179,
+                "userAction": ""
+            },
+            "secure.leadback.advertising.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503414024048,
+                "userAction": ""
+            },
+            "secure.quantserve.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503642377048,
+                "userAction": ""
+            },
+            "securepubads.g.doubleclick.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503538936272,
+                "userAction": ""
+            },
+            "sites.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "sjs.bizographics.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503418037809,
+                "userAction": ""
+            },
+            "snap.licdn.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503661601750,
+                "userAction": ""
+            },
+            "sp.analytics.yahoo.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503497765209,
+                "userAction": ""
+            },
+            "sp1.convertro.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503385401724,
+                "userAction": ""
+            },
+            "spreadsheets.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "ssl.google-analytics.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503866796698,
+                "userAction": ""
+            },
+            "ssl.gstatic.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503846939982,
+                "userAction": ""
+            },
+            "statcounter.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "static.ads-twitter.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503505769138,
+                "userAction": ""
+            },
+            "static.etracker.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503856817045,
+                "userAction": ""
+            },
+            "static.licdn.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503788379616,
+                "userAction": ""
+            },
+            "statics-uhf-wus.akamaized.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503702093150,
+                "userAction": ""
+            },
+            "staticxx.facebook.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503643424109,
+                "userAction": ""
+            },
+            "stats.g.doubleclick.net": {
+                "dnt": false,
+                "heuristicAction": "block",
+                "nextUpdateTime": 1503584330328,
+                "userAction": ""
+            },
+            "syndication.twitter.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503380259987,
+                "userAction": ""
+            },
+            "t.co": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503602232057,
+                "userAction": ""
+            },
+            "tags.tiqcdn.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503387287373,
+                "userAction": ""
+            },
+            "talkgadget.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "tealiumiq.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "tpc.googlesyndication.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503859690047,
+                "userAction": ""
+            },
+            "tracker.marinsm.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503575369712,
+                "userAction": ""
+            },
+            "translate.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "trends.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "twitter.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "u3s.mathtag.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503778937527,
+                "userAction": ""
+            },
+            "use.typekit.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503563409558,
+                "userAction": ""
+            },
+            "video.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "wpdotorg.files.wordpress.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503440954786,
+                "userAction": ""
+            },
+            "www.etracker.de": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503588262828,
+                "userAction": ""
+            },
+            "www.facebook.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 1503387947249,
+                "userAction": ""
+            },
+            "www.google-analytics.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503605098090,
+                "userAction": ""
+            },
+            "www.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 1503872228624,
+                "userAction": ""
+            },
+            "www.googleadservices.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503499419095,
+                "userAction": ""
+            },
+            "www.googletagmanager.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503516256073,
+                "userAction": ""
+            },
+            "www.gstatic.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503664039765,
+                "userAction": ""
+            },
+            "www.statcounter.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503805191059,
+                "userAction": ""
+            },
+            "www.youtube.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503714289964,
+                "userAction": ""
+            },
+            "yahoo.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "yahooapis.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "yimg.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "youtube.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "yt3.ggpht.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503757360804,
+                "userAction": ""
+            }
+        },
+        "cookieblock_list": {
+            "112.2o7.net": true,
+            "122.2o7.net": true,
+            "123greetings.com": true,
+            "140cc.v.fwmrm.net": true,
+            "5min.com": true,
+            "a.disquscdn.com": true,
+            "accounts.google.com": true,
+            "accuweather.com": true,
+            "actionnetwork.org": true,
+            "addon.lidl.de": true,
+            "adm.fwmrm.net": true,
+            "ajax.googleapis.com": true,
+            "akamai.net": true,
+            "akamaihd.net": true,
+            "al.com": true,
+            "alert60.com": true,
+            "alexa.com": true,
+            "alicdn.com": true,
+            "ally.com": true,
+            "amazon.com": true,
+            "amazonaws.com": true,
+            "amazoncustomerservice.d2.sc.omtrdc.net": true,
+            "americanhomecomings.com": true,
+            "ancestry.com": true,
+            "angularjs.org": true,
+            "anonymto.me": true,
+            "aol.com": true,
+            "aolcdn.com": true,
+            "ap.org": true,
+            "api.embed.ly": true,
+            "api.filepicker.io": true,
+            "api.ooyala.com": true,
+            "api.razorpay.com": true,
+            "apis.google.com": true,
+            "apnewsregistry.com": true,
+            "apple.com": true,
+            "appspot.com": true,
+            "arcgis.com": true,
+            "archive.org": true,
+            "aspnetcdn.com": true,
+            "assetfiles.com": true,
+            "assets.nflxext.com": true,
+            "assets.ubuntu.com": true,
+            "attachment.fbsbx.com": true,
+            "attservicesinc.tt.omtrdc.net": true,
+            "auth.adobe.com": true,
+            "auth.api.sonyentertainmentnetwork.com": true,
+            "authorize.net": true,
+            "autoforums.com": true,
+            "bac-assets.com": true,
+            "bandcamp.com": true,
+            "bankid.no": true,
+            "bankrate.com": true,
+            "bbb.org": true,
+            "bbc.co.uk": true,
+            "bbci.co.uk": true,
+            "bcbits.com": true,
+            "betterttv.net": true,
+            "bit.ly": true,
+            "bizrate.com": true,
+            "blogblog.com": true,
+            "blogger.com": true,
+            "blogher.org": true,
+            "blogspot.com": true,
+            "bloxcms.com": true,
+            "boldchat.com": true,
+            "books.google.com": true,
+            "bootstrapcdn.com": true,
+            "bp.blogspot.com": true,
+            "braintreegateway.com": true,
+            "brcdn.com": true,
+            "break.com": true,
+            "breakingburner.com": true,
+            "brightcove.com": true,
+            "build.origami.ft.com": true,
+            "buzzfed.com": true,
+            "buzzfeed.com": true,
+            "c.o0bg.com": true,
+            "c.ooyala.com": true,
+            "c.tadst.com": true,
+            "c64.assets-yammer.com": true,
+            "cachefly.net": true,
+            "calendar.google.com": true,
+            "cardinalcommerce.com": true,
+            "cars.com": true,
+            "cbsi.com": true,
+            "cbsimg.net": true,
+            "cbsistatic.com": true,
+            "cdn-a.sonyentertainmentnetwork.com": true,
+            "cdn.anvato.net": true,
+            "cdn.arstechnica.net": true,
+            "cdn.discourse.org": true,
+            "cdn.embed.ly": true,
+            "cdn.embedly.com": true,
+            "cdn.leafletjs.com": true,
+            "cdn.sstatic.net": true,
+            "cdn.static-economist.com": true,
+            "cdn3.nflxext.com": true,
+            "cdnapi.kaltura.com": true,
+            "cdnbakmi.kaltura.com": true,
+            "cdninstagram.com": true,
+            "cdnpk.com": true,
+            "cfvod.kaltura.com": true,
+            "charter.com": true,
+            "checkout.google.com": true,
+            "checkout.razorpay.com": true,
+            "civicscience.com": true,
+            "cleanprint.net": true,
+            "cleveland.com": true,
+            "clients1.google.com": true,
+            "cloudflare.com": true,
+            "cloudfront.net": true,
+            "code.highcharts.com": true,
+            "com.com": true,
+            "complex.com": true,
+            "consent.google.com": true,
+            "content.jwplatform.com": true,
+            "convio.net": true,
+            "cookieblock.trackersimulate.org": true,
+            "copyscape.com": true,
+            "corporate-ir.net": true,
+            "coupons.com": true,
+            "craveonline.com": true,
+            "creativecommons.org": true,
+            "crowdynews.com": true,
+            "cse.google.com": true,
+            "cstv.com": true,
+            "cursecdn.com": true,
+            "custhelp.com": true,
+            "d3js.org": true,
+            "dailymotion.com": true,
+            "delicious.com": true,
+            "delvenetworks.com": true,
+            "denverpost.com": true,
+            "developers.google.com": true,
+            "deviantart.com": true,
+            "deviantart.net": true,
+            "dialog.filepicker.io": true,
+            "digg.com": true,
+            "discovery.com": true,
+            "disqus.com": true,
+            "disquscdn.com": true,
+            "dl.dropboxusercontent.com": true,
+            "dmcdn.com": true,
+            "dmcdn.net": true,
+            "docs.google.com": true,
+            "domainnamesales.com": true,
+            "dotsub.com": true,
+            "drive.google.com": true,
+            "dudamobile.com": true,
+            "dumpert.nl": true,
+            "ebay.com": true,
+            "ebayimg.com": true,
+            "ebayrtm.com": true,
+            "ebaystatic.com": true,
+            "ebmedia.eventbrite.com": true,
+            "edgecastcdn.net": true,
+            "edgefcs.net": true,
+            "edgekey.net": true,
+            "elasticbeanstalk.com": true,
+            "eltrafiko.com": true,
+            "epoch.com": true,
+            "estara.com": true,
+            "ethn.io": true,
+            "evcdn.com": true,
+            "fansonly.com": true,
+            "fastly.net": true,
+            "fbcdn.net": true,
+            "feedburner.com": true,
+            "feedburner.google.com": true,
+            "files.edx.org": true,
+            "files.graphiq.com": true,
+            "financialcontent.com": true,
+            "findnsave.com": true,
+            "firstlook.org": true,
+            "flattr.com": true,
+            "flickr.com": true,
+            "fling.com": true,
+            "flowplayer.org": true,
+            "flyertown.ca": true,
+            "fontdeck.com": true,
+            "fonts.com": true,
+            "fonts.net": true,
+            "force.com": true,
+            "framasoft.org": true,
+            "frz.io": true,
+            "fuseservice.com": true,
+            "fusiontables.google.com": true,
+            "fyre.co": true,
+            "fz.io": true,
+            "fzcdn.net": true,
+            "gannett-cdn.com": true,
+            "gannett-tv.com": true,
+            "gannettonline.com": true,
+            "gasbuddy.com": true,
+            "gatherer.wizards.com": true,
+            "gawkerassets.com": true,
+            "geenstijl.nl": true,
+            "geoplugin.net": true,
+            "geotrust.com": true,
+            "getpocket.com": true,
+            "ggpht.com": true,
+            "giant.gfycat.com": true,
+            "giphy.com": true,
+            "github.com": true,
+            "githubusercontent.com": true,
+            "gmodules.com": true,
+            "go.com": true,
+            "godaddy.com": true,
+            "godatafeed.com": true,
+            "gogousenet.com": true,
+            "googleapis.com": true,
+            "googlecode.com": true,
+            "googlecommerce.com": true,
+            "googletagservices.com": true,
+            "googleusercontent.com": true,
+            "googlevideo.com": true,
+            "governmentjobs.com": true,
+            "gr-assets.com": true,
+            "grapeshot.co.uk": true,
+            "gravatar.com": true,
+            "groups.google.com": true,
+            "gscdn.nl": true,
+            "gstatic.com": true,
+            "guardian.co.uk": true,
+            "hackerone-user-content.com": true,
+            "helium.com": true,
+            "hello.firefox.com": true,
+            "hellobar.com": true,
+            "herokuapp.com": true,
+            "hiroservers.appspot.com": true,
+            "honcode.ch": true,
+            "hootsuite.com": true,
+            "howaboutwe.com": true,
+            "howstuffworks.com": true,
+            "huffpost.com": true,
+            "humblebundle.com": true,
+            "hwcdn.net": true,
+            "hypothes.is": true,
+            "i-cdn.embed.ly": true,
+            "i.embed.ly": true,
+            "i.lithium.com": true,
+            "ibsys.com": true,
+            "ibtimes.com": true,
+            "icbdr.com": true,
+            "imagecorn.com": true,
+            "imageg.net": true,
+            "imagehost123.com": true,
+            "images-amazon.com": true,
+            "images.rapgenius.com": true,
+            "imageshack.us": true,
+            "imagetwist.com": true,
+            "imagevenue.com": true,
+            "imgchili.com": true,
+            "imgfarm.com": true,
+            "imgix.net": true,
+            "imgspice.com": true,
+            "imgur.com": true,
+            "imshopping.com": true,
+            "indeed.com": true,
+            "inergizedigital.com": true,
+            "instagram.com": true,
+            "instantservice.com": true,
+            "instapaper.com": true,
+            "intellicast.com": true,
+            "intensedebate.com": true,
+            "investingchannel.com": true,
+            "issuu.com": true,
+            "janrain.com": true,
+            "jquery.com": true,
+            "jquerytools.org": true,
+            "jsdelivr.net": true,
+            "jsonip.com": true,
+            "jtvnw.net": true,
+            "justin.tv": true,
+            "jwpcdn.com": true,
+            "jwpltx.com": true,
+            "kampyle.com": true,
+            "kataweb.it": true,
+            "kh.google.com": true,
+            "khms0.google.com": true,
+            "khms1.google.com": true,
+            "khms2.google.com": true,
+            "khms3.google.com": true,
+            "khms4.google.com": true,
+            "kickapps.com": true,
+            "kickstatic.com": true,
+            "kingfeatures.com": true,
+            "kinja-static.com": true,
+            "kinja.com": true,
+            "klm.com": true,
+            "l.ooyala.com": true,
+            "labs.google.com": true,
+            "lh4.googleusercontent.com": true,
+            "licdn.com": true,
+            "licensebuttons.net": true,
+            "linkwithin.com": true,
+            "livechatinc.com": true,
+            "livefyre.com": true,
+            "livehelpnow.net": true,
+            "livestream.com": true,
+            "llnwd.net": true,
+            "loggly.com": true,
+            "logos.com": true,
+            "loop.services.mozilla.com": true,
+            "lphbs.com": true,
+            "mail.ru": true,
+            "mapbox.com": true,
+            "mapquestapi.com": true,
+            "maps-api-ssl.google.com": true,
+            "maps.google.com": true,
+            "mapsengine.google.com": true,
+            "masslive.com": true,
+            "mathjax.org": true,
+            "maxmind.com": true,
+            "mcclatchyinteractive.com": true,
+            "mcp-media5.anvato.net": true,
+            "media-imdb.com": true,
+            "media.lidl.com": true,
+            "media.nu.nl": true,
+            "mediaworks.co.nz": true,
+            "meebocdn.net": true,
+            "members.internetdefenseleague.org": true,
+            "messenger.live.com": true,
+            "mfstatic.cz": true,
+            "microsoft.com": true,
+            "microsoftonline.com": true,
+            "microsofttranslator.com": true,
+            "mlive.com": true,
+            "mobify.com": true,
+            "mozilla.net": true,
+            "mozilla.org": true,
+            "mozu.com": true,
+            "mqcdn.com": true,
+            "msecnd.net": true,
+            "msn.com": true,
+            "mt0.google.com": true,
+            "mt1.google.com": true,
+            "mts0.google.com": true,
+            "mts1.google.com": true,
+            "mtv.com": true,
+            "mtvnservices.com": true,
+            "mw1.google.com": true,
+            "mw2.google.com": true,
+            "mycapture.com": true,
+            "mzstatic.com": true,
+            "nationalgeographic.com": true,
+            "nationbuilder.com": true,
+            "nbcuni.com": true,
+            "neighborsink.com": true,
+            "netdna-cdn.com": true,
+            "netdna-ssl.com": true,
+            "netflix.com": true,
+            "networksolutions.com": true,
+            "newsinc.com": true,
+            "newslook.com": true,
+            "newstogram.com": true,
+            "nextopiasoftware.com": true,
+            "nfl.com": true,
+            "nflcdn.com": true,
+            "nflxext.com": true,
+            "ngfiles.com": true,
+            "nj.com": true,
+            "nmcdn.us": true,
+            "nola.com": true,
+            "nominatim.openstreetmap.org": true,
+            "npmcdn.com": true,
+            "nrcdn.com": true,
+            "nsimg.net": true,
+            "nyt.com": true,
+            "nytimes.com": true,
+            "ocsn.com": true,
+            "olark.com": true,
+            "omroep.nl": true,
+            "onswipe.com": true,
+            "openlayers.org": true,
+            "openlibrary.org": true,
+            "opf.ooyala.com": true,
+            "optimizely.com": true,
+            "oregonlive.com": true,
+            "outlook.com": true,
+            "passwordbox.com": true,
+            "paypal.com": true,
+            "paypalobjects.com": true,
+            "pdf.yt": true,
+            "pennlive.com": true,
+            "performgroup.com": true,
+            "pgcdn.com": true,
+            "phncdn.com": true,
+            "photobucket.com": true,
+            "phplist.com": true,
+            "picasaweb.google.com": true,
+            "piclens.com": true,
+            "pinimg.com": true,
+            "pipes.yahoo.com": true,
+            "piratebay.org": true,
+            "pistachio-cdn.graze.com": true,
+            "pixietrixcomix.com": true,
+            "platform.twitter.com": true,
+            "play.google.com": true,
+            "player.ooyala.com": true,
+            "players.brightcove.net": true,
+            "plex.tv": true,
+            "plus.google.com": true,
+            "poll.fm": true,
+            "polldaddy.com": true,
+            "postimg.org": true,
+            "powerreviews.com": true,
+            "pricegrabber.com": true,
+            "printfriendly.com": true,
+            "privacy-policy.truste.com": true,
+            "providesupport.com": true,
+            "ps.w.org": true,
+            "psswrdbx.com": true,
+            "public.slidesharecdn.com": true,
+            "public.tableausoftware.com": true,
+            "publiekeomroep.nl": true,
+            "qualtrics.com": true,
+            "quotemedia.com": true,
+            "rackcdn.com": true,
+            "rackspacecloud.com": true,
+            "rambler.ru": true,
+            "razorpay.com": true,
+            "readability.com": true,
+            "readthedocs.org": true,
+            "recaptcha.net": true,
+            "reddit.com": true,
+            "redditmedia.com": true,
+            "redditstatic.com": true,
+            "resellerratings.com": true,
+            "resultspage.com": true,
+            "rpxnow.com": true,
+            "rssinclude.com": true,
+            "s-msft.com": true,
+            "s-msn.com": true,
+            "s-static.ak.facebook.com": true,
+            "s.graphiq.com": true,
+            "s.w.org": true,
+            "s2.graphiq.com": true,
+            "s3.amazonaws.com": true,
+            "s3.graphiq.com": true,
+            "salesforce.com": true,
+            "salsalabs.com": true,
+            "sbnation.com": true,
+            "schd.ws": true,
+            "sched.org": true,
+            "screendoor.dobt.co": true,
+            "scribd.com": true,
+            "scribdassets.com": true,
+            "script.ioam.de": true,
+            "search.yahoo.com": true,
+            "seatme.yelp.com": true,
+            "secure5.arcot.com": true,
+            "securesuite.co.uk": true,
+            "securitymetrics.com": true,
+            "seeclickfix.com": true,
+            "sgizmo.com": true,
+            "shield.sitelock.com": true,
+            "shopify.com": true,
+            "shopping.com": true,
+            "shoprunner.com": true,
+            "siteimprove.com": true,
+            "sites.google.com": true,
+            "sketchfab.com": true,
+            "slidedeck.com": true,
+            "smugmug.com": true,
+            "snapabug.appspot.com": true,
+            "snapengage.com": true,
+            "sndcdn.com": true,
+            "soundcloud.com": true,
+            "spreadsheets.google.com": true,
+            "springboardplatform.com": true,
+            "squarespace.com": true,
+            "squirt.io": true,
+            "ssl-images-amazon.com": true,
+            "sstatic.net": true,
+            "stackexchange.com": true,
+            "stackoverflow.com": true,
+            "staticamzn.com": true,
+            "staticflickr.com": true,
+            "steampowered.com": true,
+            "steamusercontent.com": true,
+            "stellaservice.com": true,
+            "storage.googleapis.com": true,
+            "store.akamai.steamstatic.com": true,
+            "stripe.com": true,
+            "stripecdn.com": true,
+            "surveygizmo.com": true,
+            "surveymonkey.com": true,
+            "syndication.twitter.com": true,
+            "syracuse.com": true,
+            "talkgadget.google.com": true,
+            "targetimg1.com": true,
+            "targetimg2.com": true,
+            "technorati.com": true,
+            "tegna-media.com": true,
+            "theplatform.com": true,
+            "tile.opencyclemap.org": true,
+            "tile.openstreetmap.fr": true,
+            "tile.openstreetmap.org": true,
+            "tile.thunderforest.com": true,
+            "tile2.opencyclemap.org": true,
+            "timeinc.net": true,
+            "tinypic.com": true,
+            "tinyurl.com": true,
+            "tiqcdn.com": true,
+            "tkx2-prod.anvato.net": true,
+            "tmsbuyatoyota.com": true,
+            "torbit.com": true,
+            "townnews.com": true,
+            "translate.google.com": true,
+            "travis-ci-org.global.ssl.fastly.net": true,
+            "trb.com": true,
+            "trbimg.com": true,
+            "trends.google.com": true,
+            "tripadvisor.com": true,
+            "trumba.com": true,
+            "trustkeeper.net": true,
+            "trustwave.com": true,
+            "ts.w.org": true,
+            "ttvnw.net": true,
+            "tumblr.com": true,
+            "turner.com": true,
+            "twimg.com": true,
+            "twitch.tv": true,
+            "twitter.com": true,
+            "typekit.com": true,
+            "typekit.net": true,
+            "typepad.com": true,
+            "typography.com": true,
+            "ui-portal.de": true,
+            "uicdn.com": true,
+            "ultraimg.com": true,
+            "up.anv.bz": true,
+            "uploads.disquscdn.com": true,
+            "uploads.tapatalk-cdn.com": true,
+            "uplynk.com": true,
+            "usa.gov": true,
+            "viafoura.net": true,
+            "viddler.com": true,
+            "video.google.com": true,
+            "videobash.com": true,
+            "viduki.com": true,
+            "vimeo.com": true,
+            "vimeocdn.com": true,
+            "virtualearth.net": true,
+            "vmixcore.com": true,
+            "vox-cdn.com": true,
+            "voxmedia.com": true,
+            "w.graphiq.com": true,
+            "w3.org": true,
+            "wallst.com": true,
+            "weather.com": true,
+            "weather.gov": true,
+            "weatherbug.com": true,
+            "weathernationtv.com": true,
+            "webtype.com": true,
+            "where.com": true,
+            "widgetserver.com": true,
+            "wikidata.org": true,
+            "wikimedia.org": true,
+            "wildapricot.org": true,
+            "windows.net": true,
+            "wishabi.com": true,
+            "wistia.com": true,
+            "wistia.net": true,
+            "wix.com": true,
+            "wordpress.com": true,
+            "worldnow.com": true,
+            "wp.com": true,
+            "wpengine.com": true,
+            "wufoo.com": true,
+            "wunderground.com": true,
+            "www.bing.com": true,
+            "www.facebook.com": true,
+            "www.google.com": true,
+            "www.img-bahn.de": true,
+            "www.kaltura.com": true,
+            "wwwimages.adobe.com": true,
+            "wxc.com": true,
+            "wxug.com": true,
+            "xsdownload.adobe.com": true,
+            "y3.analytics.yahoo.com": true,
+            "yahoo.net": true,
+            "yahooapis.com": true,
+            "yandex.net": true,
+            "yandex.ru": true,
+            "yandex.ua": true,
+            "yardbarker.com": true,
+            "yellowpages.com": true,
+            "yelpcdn.com": true,
+            "yimg.com": true,
+            "youku.com": true,
+            "youtube-nocookie.com": true,
+            "youtube.com": true,
+            "youwatch.org": true,
+            "ytimg.com": true,
+            "zap2it.com": true,
+            "zdassets.com": true,
+            "zencdn.net": true,
+            "zergnet.com": true,
+            "ziplist.com": true,
+            "zlcdn.com": true,
+            "zombaio.com": true,
+            "zope.net": true,
+            "zopim.com": true,
+            "zvents.com": true
+        },
+        "dnt_hashes": {
+            "41ae62ddfee360fe1e0e7dbae0f35b2dc06212eb": "Preliminary DNT Policy",
+            "76d89351d48f10c633fd1b5273587913f0851367": "Discussion Draft v0.2 in progress feb 2015",
+            "96297930e450cb795004ae5b1fcc88290a2fe982": "Discussion Draft DNT Policy v0.1",
+            "a18e8dba6848d3fc241b03b88291cb75a3cfec3b": "DNT Policy v1.0"
+        },
+        "settings_map": {
+            "checkForDNTPolicy": true,
+            "disabledSites": [],
+            "isFirstRun": false,
+            "migrationLevel": 8,
+            "seenComic": false,
+            "showCounter": true,
+            "socialWidgetReplacementEnabled": true,
+            "webRTCIPProtection": false
+        },
+        "snitch_map": {
+            "abmr.net": [
+                "vimeo.com"
+            ],
+            "advertising.com": [
+                "godaddy.com"
+            ],
+            "app.link": [
+                "vimeo.com"
+            ],
+            "atdmt.com": [
+                "facebook.com"
+            ],
+            "bing.com": [
+                "godaddy.com"
+            ],
+            "convertro.com": [
+                "godaddy.com"
+            ],
+            "demdex.net": [
+                "adobe.com",
+                "microsoft.com"
+            ],
+            "doubleclick.net": [
+                "youtube.com",
+                "linkedin.com",
+                "sedo.com"
+            ],
+            "facebook.com": [
+                "wordpress.org",
+                "instagram.com",
+                "pinterest.com"
+            ],
+            "flickr.com": [
+                "yahoo.com"
+            ],
+            "google.com": [
+                "youtube.com",
+                "linkedin.com",
+                "wordpress.org"
+            ],
+            "licdn.com": [
+                "linkedin.com"
+            ],
+            "linkedin.com": [
+                "godaddy.com"
+            ],
+            "marinsm.com": [
+                "godaddy.com"
+            ],
+            "mathtag.com": [
+                "godaddy.com",
+                "vimeo.com"
+            ],
+            "omtrdc.net": [
+                "adobe.com"
+            ],
+            "pinterest.com": [
+                "godaddy.com"
+            ],
+            "quantserve.com": [
+                "wordpress.org",
+                "vimeo.com"
+            ],
+            "rlcdn.com": [
+                "godaddy.com"
+            ],
+            "scorecardresearch.com": [
+                "linkedin.com"
+            ],
+            "statcounter.com": [
+                "hugedomains.com"
+            ],
+            "tealiumiq.com": [
+                "godaddy.com"
+            ],
+            "twitter.com": [
+                "wordpress.org",
+                "godaddy.com"
+            ],
+            "yahoo.com": [
+                "godaddy.com"
+            ],
+            "yahooapis.com": [
+                "yahoo.com"
+            ],
+            "yimg.com": [
+                "flickr.com"
+            ],
+            "youtube.com": [
+                "godaddy.com",
+                "yahoo.com"
+            ]
+        }
+    },
+    "mem_usage": "Browser 71 MB private, 111 MB shared, 364 FDs open of 4096\nTab [Google URL Shortener] 49 MB private, 68 MB shared, -1 FDs open of 1024\nExtension [Privacy Badger] 33 MB private, 67 MB shared, -1 FDs open of 1024\nTab [data:,] 18 MB private, 56 MB shared, -1 FDs open of 1024\nExtension [Chrome Automation Extension] 15 MB private, 50 MB shared, -1 FDs open of 1024\nGPU [] 14 MB private, 41 MB shared, 39 FDs open of 4096\nTab 13 MB private, 46 MB shared, -1 FDs open of 1024\nZygote 9 MB private, 2 MB shared, -1 FDs open of 1024"
+}
