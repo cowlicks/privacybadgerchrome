@@ -1,0 +1,2990 @@
+{
+    "badger_data": {
+        "action_map": {
+            "a3698060313.cdn.optimizely.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503651253201,
+                "userAction": ""
+            },
+            "abs.twimg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503403572606,
+                "userAction": ""
+            },
+            "accounts.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "adobe.tt.omtrdc.net": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503745370315,
+                "userAction": ""
+            },
+            "ajax.googleapis.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503502828708,
+                "userAction": ""
+            },
+            "ak1s.abmr.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503445438307,
+                "userAction": ""
+            },
+            "api.branch.io": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503703268811,
+                "userAction": ""
+            },
+            "api.demandbase.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503402026439,
+                "userAction": ""
+            },
+            "apis.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 1503461786940,
+                "userAction": ""
+            },
+            "app.link": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503700552057,
+                "userAction": ""
+            },
+            "assets.adobedtm.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503868166297,
+                "userAction": ""
+            },
+            "assets.onestore.ms": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503547624260,
+                "userAction": ""
+            },
+            "atdmt.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "az725175.vo.msecnd.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503528988803,
+                "userAction": ""
+            },
+            "books.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "c.s-microsoft.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503858549744,
+                "userAction": ""
+            },
+            "c.statcounter.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503640141367,
+                "userAction": ""
+            },
+            "calendar.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "cdn.optimizely.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503502772768,
+                "userAction": ""
+            },
+            "checkout.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "clients1.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "code.etracker.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503773735716,
+                "userAction": ""
+            },
+            "connect.facebook.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503769077209,
+                "userAction": ""
+            },
+            "consent.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "cookiex.ngd.yahoo.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503794704869,
+                "userAction": ""
+            },
+            "cse.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "csync.flickr.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503555818712,
+                "userAction": ""
+            },
+            "csync.yahooapis.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503569051591,
+                "userAction": ""
+            },
+            "cx.atdmt.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503775954039,
+                "userAction": ""
+            },
+            "demdex.net": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "developers.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "dnn506yrbagrg.cloudfront.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503619903210,
+                "userAction": ""
+            },
+            "docs.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "doubleclick.net": {
+                "dnt": false,
+                "heuristicAction": "block",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "dpm.demdex.net": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503675508923,
+                "userAction": ""
+            },
+            "drive.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "f.vimeocdn.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503774641123,
+                "userAction": ""
+            },
+            "facebook.com": {
+                "dnt": false,
+                "heuristicAction": "block",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "feedburner.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "flickr.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "fonts.googleapis.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503840199064,
+                "userAction": ""
+            },
+            "fonts.gstatic.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503511816735,
+                "userAction": ""
+            },
+            "fusiontables.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "google.com": {
+                "dnt": false,
+                "heuristicAction": "block",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "googleads.g.doubleclick.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503533306299,
+                "userAction": ""
+            },
+            "googleads4.g.doubleclick.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503583863689,
+                "userAction": ""
+            },
+            "gravatar.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503494588627,
+                "userAction": ""
+            },
+            "groups.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "gtrk.s3.amazonaws.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503390151015,
+                "userAction": ""
+            },
+            "i.pinimg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503376753836,
+                "userAction": ""
+            },
+            "i.vimeocdn.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503425321479,
+                "userAction": ""
+            },
+            "i.ytimg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503361886656,
+                "userAction": ""
+            },
+            "i2.wp.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503439178367,
+                "userAction": ""
+            },
+            "images-na.ssl-images-amazon.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503567698391,
+                "userAction": ""
+            },
+            "img-prod-cms-rt-microsoft-com.akamaized.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503726045675,
+                "userAction": ""
+            },
+            "img1.wsimg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503740366672,
+                "userAction": ""
+            },
+            "kh.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "khms0.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "khms1.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "khms2.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "khms3.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "khms4.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "labs.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "les.everesttech.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503486075323,
+                "userAction": ""
+            },
+            "lh3.googleusercontent.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503738971690,
+                "userAction": ""
+            },
+            "licdn.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "logx.optimizely.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503533131676,
+                "userAction": ""
+            },
+            "m.media-amazon.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503401987251,
+                "userAction": ""
+            },
+            "maps-api-ssl.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "maps.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "mapsengine.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "mathid.mathtag.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503766549589,
+                "userAction": ""
+            },
+            "mathtag.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "mboxedge20.tt.omtrdc.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503503524677,
+                "userAction": ""
+            },
+            "media.licdn.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503732646690,
+                "userAction": ""
+            },
+            "mem.gfx.ms": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503448000112,
+                "userAction": ""
+            },
+            "mt0.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "mt1.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "mts0.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "mts1.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "mw1.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "mw2.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "omtrdc.net": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "pagead2.googlesyndication.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503416458843,
+                "userAction": ""
+            },
+            "pbs.twimg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503525164792,
+                "userAction": ""
+            },
+            "picasaweb.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "pixel.mathtag.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503499170229,
+                "userAction": ""
+            },
+            "pixel.quantserve.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503601131926,
+                "userAction": ""
+            },
+            "platform.twitter.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503779638641,
+                "userAction": ""
+            },
+            "play.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "plus.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "pubads.g.doubleclick.net": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503536939594,
+                "userAction": ""
+            },
+            "quantserve.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "radar.cedexis.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503580462459,
+                "userAction": ""
+            },
+            "rules.quantcount.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503786672786,
+                "userAction": ""
+            },
+            "s-media-cache-ak0.pinimg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503623282604,
+                "userAction": ""
+            },
+            "s-static.ak.facebook.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "s.pinimg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503438710712,
+                "userAction": ""
+            },
+            "s.w.org": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503357233547,
+                "userAction": ""
+            },
+            "s.yimg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503693890369,
+                "userAction": ""
+            },
+            "s.ytimg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503625792270,
+                "userAction": ""
+            },
+            "s0.2mdn.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503525049504,
+                "userAction": ""
+            },
+            "s0.wp.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503483464710,
+                "userAction": ""
+            },
+            "s1.wp.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503393834771,
+                "userAction": ""
+            },
+            "sb.scorecardresearch.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503786481075,
+                "userAction": ""
+            },
+            "scontent-lax3-1.xx.fbcdn.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503847873820,
+                "userAction": ""
+            },
+            "scorecardresearch.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "script.crazyegg.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503570515874,
+                "userAction": ""
+            },
+            "sdk.accountkit.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503768225496,
+                "userAction": ""
+            },
+            "secure.gravatar.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503741688663,
+                "userAction": ""
+            },
+            "secure.quantserve.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503842499216,
+                "userAction": ""
+            },
+            "securepubads.g.doubleclick.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503611223858,
+                "userAction": ""
+            },
+            "sites.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "spreadsheets.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "ssl.google-analytics.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503569476555,
+                "userAction": ""
+            },
+            "ssl.gstatic.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503831831518,
+                "userAction": ""
+            },
+            "statcounter.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "static.adobelogin.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503846437488,
+                "userAction": ""
+            },
+            "static.etracker.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503568046384,
+                "userAction": ""
+            },
+            "static.licdn.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503836148530,
+                "userAction": ""
+            },
+            "statics-uhf-eus.akamaized.net": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503609080852,
+                "userAction": ""
+            },
+            "staticxx.facebook.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503726655021,
+                "userAction": ""
+            },
+            "stats.g.doubleclick.net": {
+                "dnt": false,
+                "heuristicAction": "block",
+                "nextUpdateTime": 1503444762786,
+                "userAction": ""
+            },
+            "syndication.twitter.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503405435396,
+                "userAction": ""
+            },
+            "talkgadget.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "tpc.googlesyndication.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503817350186,
+                "userAction": ""
+            },
+            "translate.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "trends.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "twitter.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "u3s.mathtag.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503677968100,
+                "userAction": ""
+            },
+            "udc.yahoo.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503354202726,
+                "userAction": ""
+            },
+            "use.typekit.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503358581947,
+                "userAction": ""
+            },
+            "video.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "wpdotorg.files.wordpress.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503572876636,
+                "userAction": ""
+            },
+            "www.eff.org": {
+                "dnt": true,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503537540843,
+                "userAction": ""
+            },
+            "www.etracker.de": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503674252740,
+                "userAction": ""
+            },
+            "www.facebook.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 1503831099022,
+                "userAction": ""
+            },
+            "www.google-analytics.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503806312120,
+                "userAction": ""
+            },
+            "www.google.com": {
+                "dnt": false,
+                "heuristicAction": "cookieblock",
+                "nextUpdateTime": 1503652388618,
+                "userAction": ""
+            },
+            "www.googleadservices.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503561338126,
+                "userAction": ""
+            },
+            "www.googletagmanager.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503369474194,
+                "userAction": ""
+            },
+            "www.gstatic.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503514483906,
+                "userAction": ""
+            },
+            "www.statcounter.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503664206796,
+                "userAction": ""
+            },
+            "www.youtube.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 1503666040640,
+                "userAction": ""
+            },
+            "yahoo.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "yahooapis.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "youtube.com": {
+                "dnt": false,
+                "heuristicAction": "allow",
+                "nextUpdateTime": 0,
+                "userAction": ""
+            },
+            "yt3.ggpht.com": {
+                "dnt": false,
+                "heuristicAction": "",
+                "nextUpdateTime": 1503649424225,
+                "userAction": ""
+            }
+        },
+        "cookieblock_list": {
+            "112.2o7.net": true,
+            "122.2o7.net": true,
+            "123greetings.com": true,
+            "140cc.v.fwmrm.net": true,
+            "5min.com": true,
+            "a.disquscdn.com": true,
+            "accounts.google.com": true,
+            "accuweather.com": true,
+            "actionnetwork.org": true,
+            "addon.lidl.de": true,
+            "adm.fwmrm.net": true,
+            "ajax.googleapis.com": true,
+            "akamai.net": true,
+            "akamaihd.net": true,
+            "al.com": true,
+            "alert60.com": true,
+            "alexa.com": true,
+            "alicdn.com": true,
+            "ally.com": true,
+            "amazon.com": true,
+            "amazonaws.com": true,
+            "amazoncustomerservice.d2.sc.omtrdc.net": true,
+            "americanhomecomings.com": true,
+            "ancestry.com": true,
+            "angularjs.org": true,
+            "anonymto.me": true,
+            "aol.com": true,
+            "aolcdn.com": true,
+            "ap.org": true,
+            "api.embed.ly": true,
+            "api.filepicker.io": true,
+            "api.ooyala.com": true,
+            "api.razorpay.com": true,
+            "apis.google.com": true,
+            "apnewsregistry.com": true,
+            "apple.com": true,
+            "appspot.com": true,
+            "arcgis.com": true,
+            "archive.org": true,
+            "aspnetcdn.com": true,
+            "assetfiles.com": true,
+            "assets.nflxext.com": true,
+            "assets.ubuntu.com": true,
+            "attachment.fbsbx.com": true,
+            "attservicesinc.tt.omtrdc.net": true,
+            "auth.adobe.com": true,
+            "auth.api.sonyentertainmentnetwork.com": true,
+            "authorize.net": true,
+            "autoforums.com": true,
+            "bac-assets.com": true,
+            "bandcamp.com": true,
+            "bankid.no": true,
+            "bankrate.com": true,
+            "bbb.org": true,
+            "bbc.co.uk": true,
+            "bbci.co.uk": true,
+            "bcbits.com": true,
+            "betterttv.net": true,
+            "bit.ly": true,
+            "bizrate.com": true,
+            "blogblog.com": true,
+            "blogger.com": true,
+            "blogher.org": true,
+            "blogspot.com": true,
+            "bloxcms.com": true,
+            "boldchat.com": true,
+            "books.google.com": true,
+            "bootstrapcdn.com": true,
+            "bp.blogspot.com": true,
+            "braintreegateway.com": true,
+            "brcdn.com": true,
+            "break.com": true,
+            "breakingburner.com": true,
+            "brightcove.com": true,
+            "build.origami.ft.com": true,
+            "buzzfed.com": true,
+            "buzzfeed.com": true,
+            "c.o0bg.com": true,
+            "c.ooyala.com": true,
+            "c.tadst.com": true,
+            "c64.assets-yammer.com": true,
+            "cachefly.net": true,
+            "calendar.google.com": true,
+            "cardinalcommerce.com": true,
+            "cars.com": true,
+            "cbsi.com": true,
+            "cbsimg.net": true,
+            "cbsistatic.com": true,
+            "cdn-a.sonyentertainmentnetwork.com": true,
+            "cdn.anvato.net": true,
+            "cdn.arstechnica.net": true,
+            "cdn.discourse.org": true,
+            "cdn.embed.ly": true,
+            "cdn.embedly.com": true,
+            "cdn.leafletjs.com": true,
+            "cdn.sstatic.net": true,
+            "cdn.static-economist.com": true,
+            "cdn3.nflxext.com": true,
+            "cdnapi.kaltura.com": true,
+            "cdnbakmi.kaltura.com": true,
+            "cdninstagram.com": true,
+            "cdnpk.com": true,
+            "cfvod.kaltura.com": true,
+            "charter.com": true,
+            "checkout.google.com": true,
+            "checkout.razorpay.com": true,
+            "civicscience.com": true,
+            "cleanprint.net": true,
+            "cleveland.com": true,
+            "clients1.google.com": true,
+            "cloudflare.com": true,
+            "cloudfront.net": true,
+            "code.highcharts.com": true,
+            "com.com": true,
+            "complex.com": true,
+            "consent.google.com": true,
+            "content.jwplatform.com": true,
+            "convio.net": true,
+            "cookieblock.trackersimulate.org": true,
+            "copyscape.com": true,
+            "corporate-ir.net": true,
+            "coupons.com": true,
+            "craveonline.com": true,
+            "creativecommons.org": true,
+            "crowdynews.com": true,
+            "cse.google.com": true,
+            "cstv.com": true,
+            "cursecdn.com": true,
+            "custhelp.com": true,
+            "d3js.org": true,
+            "dailymotion.com": true,
+            "delicious.com": true,
+            "delvenetworks.com": true,
+            "denverpost.com": true,
+            "developers.google.com": true,
+            "deviantart.com": true,
+            "deviantart.net": true,
+            "dialog.filepicker.io": true,
+            "digg.com": true,
+            "discovery.com": true,
+            "disqus.com": true,
+            "disquscdn.com": true,
+            "dl.dropboxusercontent.com": true,
+            "dmcdn.com": true,
+            "dmcdn.net": true,
+            "docs.google.com": true,
+            "domainnamesales.com": true,
+            "dotsub.com": true,
+            "drive.google.com": true,
+            "dudamobile.com": true,
+            "dumpert.nl": true,
+            "ebay.com": true,
+            "ebayimg.com": true,
+            "ebayrtm.com": true,
+            "ebaystatic.com": true,
+            "ebmedia.eventbrite.com": true,
+            "edgecastcdn.net": true,
+            "edgefcs.net": true,
+            "edgekey.net": true,
+            "elasticbeanstalk.com": true,
+            "eltrafiko.com": true,
+            "epoch.com": true,
+            "estara.com": true,
+            "ethn.io": true,
+            "evcdn.com": true,
+            "fansonly.com": true,
+            "fastly.net": true,
+            "fbcdn.net": true,
+            "feedburner.com": true,
+            "feedburner.google.com": true,
+            "files.edx.org": true,
+            "files.graphiq.com": true,
+            "financialcontent.com": true,
+            "findnsave.com": true,
+            "firstlook.org": true,
+            "flattr.com": true,
+            "flickr.com": true,
+            "fling.com": true,
+            "flowplayer.org": true,
+            "flyertown.ca": true,
+            "fontdeck.com": true,
+            "fonts.com": true,
+            "fonts.net": true,
+            "force.com": true,
+            "framasoft.org": true,
+            "frz.io": true,
+            "fuseservice.com": true,
+            "fusiontables.google.com": true,
+            "fyre.co": true,
+            "fz.io": true,
+            "fzcdn.net": true,
+            "gannett-cdn.com": true,
+            "gannett-tv.com": true,
+            "gannettonline.com": true,
+            "gasbuddy.com": true,
+            "gatherer.wizards.com": true,
+            "gawkerassets.com": true,
+            "geenstijl.nl": true,
+            "geoplugin.net": true,
+            "geotrust.com": true,
+            "getpocket.com": true,
+            "ggpht.com": true,
+            "giant.gfycat.com": true,
+            "giphy.com": true,
+            "github.com": true,
+            "githubusercontent.com": true,
+            "gmodules.com": true,
+            "go.com": true,
+            "godaddy.com": true,
+            "godatafeed.com": true,
+            "gogousenet.com": true,
+            "googleapis.com": true,
+            "googlecode.com": true,
+            "googlecommerce.com": true,
+            "googletagservices.com": true,
+            "googleusercontent.com": true,
+            "googlevideo.com": true,
+            "governmentjobs.com": true,
+            "gr-assets.com": true,
+            "grapeshot.co.uk": true,
+            "gravatar.com": true,
+            "groups.google.com": true,
+            "gscdn.nl": true,
+            "gstatic.com": true,
+            "guardian.co.uk": true,
+            "hackerone-user-content.com": true,
+            "helium.com": true,
+            "hello.firefox.com": true,
+            "hellobar.com": true,
+            "herokuapp.com": true,
+            "hiroservers.appspot.com": true,
+            "honcode.ch": true,
+            "hootsuite.com": true,
+            "howaboutwe.com": true,
+            "howstuffworks.com": true,
+            "huffpost.com": true,
+            "humblebundle.com": true,
+            "hwcdn.net": true,
+            "hypothes.is": true,
+            "i-cdn.embed.ly": true,
+            "i.embed.ly": true,
+            "i.lithium.com": true,
+            "ibsys.com": true,
+            "ibtimes.com": true,
+            "icbdr.com": true,
+            "imagecorn.com": true,
+            "imageg.net": true,
+            "imagehost123.com": true,
+            "images-amazon.com": true,
+            "images.rapgenius.com": true,
+            "imageshack.us": true,
+            "imagetwist.com": true,
+            "imagevenue.com": true,
+            "imgchili.com": true,
+            "imgfarm.com": true,
+            "imgix.net": true,
+            "imgspice.com": true,
+            "imgur.com": true,
+            "imshopping.com": true,
+            "indeed.com": true,
+            "inergizedigital.com": true,
+            "instagram.com": true,
+            "instantservice.com": true,
+            "instapaper.com": true,
+            "intellicast.com": true,
+            "intensedebate.com": true,
+            "investingchannel.com": true,
+            "issuu.com": true,
+            "janrain.com": true,
+            "jquery.com": true,
+            "jquerytools.org": true,
+            "jsdelivr.net": true,
+            "jsonip.com": true,
+            "jtvnw.net": true,
+            "justin.tv": true,
+            "jwpcdn.com": true,
+            "jwpltx.com": true,
+            "kampyle.com": true,
+            "kataweb.it": true,
+            "kh.google.com": true,
+            "khms0.google.com": true,
+            "khms1.google.com": true,
+            "khms2.google.com": true,
+            "khms3.google.com": true,
+            "khms4.google.com": true,
+            "kickapps.com": true,
+            "kickstatic.com": true,
+            "kingfeatures.com": true,
+            "kinja-static.com": true,
+            "kinja.com": true,
+            "klm.com": true,
+            "l.ooyala.com": true,
+            "labs.google.com": true,
+            "lh4.googleusercontent.com": true,
+            "licdn.com": true,
+            "licensebuttons.net": true,
+            "linkwithin.com": true,
+            "livechatinc.com": true,
+            "livefyre.com": true,
+            "livehelpnow.net": true,
+            "livestream.com": true,
+            "llnwd.net": true,
+            "loggly.com": true,
+            "logos.com": true,
+            "loop.services.mozilla.com": true,
+            "lphbs.com": true,
+            "mail.ru": true,
+            "mapbox.com": true,
+            "mapquestapi.com": true,
+            "maps-api-ssl.google.com": true,
+            "maps.google.com": true,
+            "mapsengine.google.com": true,
+            "masslive.com": true,
+            "mathjax.org": true,
+            "maxmind.com": true,
+            "mcclatchyinteractive.com": true,
+            "mcp-media5.anvato.net": true,
+            "media-imdb.com": true,
+            "media.lidl.com": true,
+            "media.nu.nl": true,
+            "mediaworks.co.nz": true,
+            "meebocdn.net": true,
+            "members.internetdefenseleague.org": true,
+            "messenger.live.com": true,
+            "mfstatic.cz": true,
+            "microsoft.com": true,
+            "microsoftonline.com": true,
+            "microsofttranslator.com": true,
+            "mlive.com": true,
+            "mobify.com": true,
+            "mozilla.net": true,
+            "mozilla.org": true,
+            "mozu.com": true,
+            "mqcdn.com": true,
+            "msecnd.net": true,
+            "msn.com": true,
+            "mt0.google.com": true,
+            "mt1.google.com": true,
+            "mts0.google.com": true,
+            "mts1.google.com": true,
+            "mtv.com": true,
+            "mtvnservices.com": true,
+            "mw1.google.com": true,
+            "mw2.google.com": true,
+            "mycapture.com": true,
+            "mzstatic.com": true,
+            "nationalgeographic.com": true,
+            "nationbuilder.com": true,
+            "nbcuni.com": true,
+            "neighborsink.com": true,
+            "netdna-cdn.com": true,
+            "netdna-ssl.com": true,
+            "netflix.com": true,
+            "networksolutions.com": true,
+            "newsinc.com": true,
+            "newslook.com": true,
+            "newstogram.com": true,
+            "nextopiasoftware.com": true,
+            "nfl.com": true,
+            "nflcdn.com": true,
+            "nflxext.com": true,
+            "ngfiles.com": true,
+            "nj.com": true,
+            "nmcdn.us": true,
+            "nola.com": true,
+            "nominatim.openstreetmap.org": true,
+            "npmcdn.com": true,
+            "nrcdn.com": true,
+            "nsimg.net": true,
+            "nyt.com": true,
+            "nytimes.com": true,
+            "ocsn.com": true,
+            "olark.com": true,
+            "omroep.nl": true,
+            "onswipe.com": true,
+            "openlayers.org": true,
+            "openlibrary.org": true,
+            "opf.ooyala.com": true,
+            "optimizely.com": true,
+            "oregonlive.com": true,
+            "outlook.com": true,
+            "passwordbox.com": true,
+            "paypal.com": true,
+            "paypalobjects.com": true,
+            "pdf.yt": true,
+            "pennlive.com": true,
+            "performgroup.com": true,
+            "pgcdn.com": true,
+            "phncdn.com": true,
+            "photobucket.com": true,
+            "phplist.com": true,
+            "picasaweb.google.com": true,
+            "piclens.com": true,
+            "pinimg.com": true,
+            "pipes.yahoo.com": true,
+            "piratebay.org": true,
+            "pistachio-cdn.graze.com": true,
+            "pixietrixcomix.com": true,
+            "platform.twitter.com": true,
+            "play.google.com": true,
+            "player.ooyala.com": true,
+            "players.brightcove.net": true,
+            "plex.tv": true,
+            "plus.google.com": true,
+            "poll.fm": true,
+            "polldaddy.com": true,
+            "postimg.org": true,
+            "powerreviews.com": true,
+            "pricegrabber.com": true,
+            "printfriendly.com": true,
+            "privacy-policy.truste.com": true,
+            "providesupport.com": true,
+            "ps.w.org": true,
+            "psswrdbx.com": true,
+            "public.slidesharecdn.com": true,
+            "public.tableausoftware.com": true,
+            "publiekeomroep.nl": true,
+            "qualtrics.com": true,
+            "quotemedia.com": true,
+            "rackcdn.com": true,
+            "rackspacecloud.com": true,
+            "rambler.ru": true,
+            "razorpay.com": true,
+            "readability.com": true,
+            "readthedocs.org": true,
+            "recaptcha.net": true,
+            "reddit.com": true,
+            "redditmedia.com": true,
+            "redditstatic.com": true,
+            "resellerratings.com": true,
+            "resultspage.com": true,
+            "rpxnow.com": true,
+            "rssinclude.com": true,
+            "s-msft.com": true,
+            "s-msn.com": true,
+            "s-static.ak.facebook.com": true,
+            "s.graphiq.com": true,
+            "s.w.org": true,
+            "s2.graphiq.com": true,
+            "s3.amazonaws.com": true,
+            "s3.graphiq.com": true,
+            "salesforce.com": true,
+            "salsalabs.com": true,
+            "sbnation.com": true,
+            "schd.ws": true,
+            "sched.org": true,
+            "screendoor.dobt.co": true,
+            "scribd.com": true,
+            "scribdassets.com": true,
+            "script.ioam.de": true,
+            "search.yahoo.com": true,
+            "seatme.yelp.com": true,
+            "secure5.arcot.com": true,
+            "securesuite.co.uk": true,
+            "securitymetrics.com": true,
+            "seeclickfix.com": true,
+            "sgizmo.com": true,
+            "shield.sitelock.com": true,
+            "shopify.com": true,
+            "shopping.com": true,
+            "shoprunner.com": true,
+            "siteimprove.com": true,
+            "sites.google.com": true,
+            "sketchfab.com": true,
+            "slidedeck.com": true,
+            "smugmug.com": true,
+            "snapabug.appspot.com": true,
+            "snapengage.com": true,
+            "sndcdn.com": true,
+            "soundcloud.com": true,
+            "spreadsheets.google.com": true,
+            "springboardplatform.com": true,
+            "squarespace.com": true,
+            "squirt.io": true,
+            "ssl-images-amazon.com": true,
+            "sstatic.net": true,
+            "stackexchange.com": true,
+            "stackoverflow.com": true,
+            "staticamzn.com": true,
+            "staticflickr.com": true,
+            "steampowered.com": true,
+            "steamusercontent.com": true,
+            "stellaservice.com": true,
+            "storage.googleapis.com": true,
+            "store.akamai.steamstatic.com": true,
+            "stripe.com": true,
+            "stripecdn.com": true,
+            "surveygizmo.com": true,
+            "surveymonkey.com": true,
+            "syndication.twitter.com": true,
+            "syracuse.com": true,
+            "talkgadget.google.com": true,
+            "targetimg1.com": true,
+            "targetimg2.com": true,
+            "technorati.com": true,
+            "tegna-media.com": true,
+            "theplatform.com": true,
+            "tile.opencyclemap.org": true,
+            "tile.openstreetmap.fr": true,
+            "tile.openstreetmap.org": true,
+            "tile.thunderforest.com": true,
+            "tile2.opencyclemap.org": true,
+            "timeinc.net": true,
+            "tinypic.com": true,
+            "tinyurl.com": true,
+            "tiqcdn.com": true,
+            "tkx2-prod.anvato.net": true,
+            "tmsbuyatoyota.com": true,
+            "torbit.com": true,
+            "townnews.com": true,
+            "translate.google.com": true,
+            "travis-ci-org.global.ssl.fastly.net": true,
+            "trb.com": true,
+            "trbimg.com": true,
+            "trends.google.com": true,
+            "tripadvisor.com": true,
+            "trumba.com": true,
+            "trustkeeper.net": true,
+            "trustwave.com": true,
+            "ts.w.org": true,
+            "ttvnw.net": true,
+            "tumblr.com": true,
+            "turner.com": true,
+            "twimg.com": true,
+            "twitch.tv": true,
+            "twitter.com": true,
+            "typekit.com": true,
+            "typekit.net": true,
+            "typepad.com": true,
+            "typography.com": true,
+            "ui-portal.de": true,
+            "uicdn.com": true,
+            "ultraimg.com": true,
+            "up.anv.bz": true,
+            "uploads.disquscdn.com": true,
+            "uploads.tapatalk-cdn.com": true,
+            "uplynk.com": true,
+            "usa.gov": true,
+            "viafoura.net": true,
+            "viddler.com": true,
+            "video.google.com": true,
+            "videobash.com": true,
+            "viduki.com": true,
+            "vimeo.com": true,
+            "vimeocdn.com": true,
+            "virtualearth.net": true,
+            "vmixcore.com": true,
+            "vox-cdn.com": true,
+            "voxmedia.com": true,
+            "w.graphiq.com": true,
+            "w3.org": true,
+            "wallst.com": true,
+            "weather.com": true,
+            "weather.gov": true,
+            "weatherbug.com": true,
+            "weathernationtv.com": true,
+            "webtype.com": true,
+            "where.com": true,
+            "widgetserver.com": true,
+            "wikidata.org": true,
+            "wikimedia.org": true,
+            "wildapricot.org": true,
+            "windows.net": true,
+            "wishabi.com": true,
+            "wistia.com": true,
+            "wistia.net": true,
+            "wix.com": true,
+            "wordpress.com": true,
+            "worldnow.com": true,
+            "wp.com": true,
+            "wpengine.com": true,
+            "wufoo.com": true,
+            "wunderground.com": true,
+            "www.bing.com": true,
+            "www.facebook.com": true,
+            "www.google.com": true,
+            "www.img-bahn.de": true,
+            "www.kaltura.com": true,
+            "wwwimages.adobe.com": true,
+            "wxc.com": true,
+            "wxug.com": true,
+            "xsdownload.adobe.com": true,
+            "y3.analytics.yahoo.com": true,
+            "yahoo.net": true,
+            "yahooapis.com": true,
+            "yandex.net": true,
+            "yandex.ru": true,
+            "yandex.ua": true,
+            "yardbarker.com": true,
+            "yellowpages.com": true,
+            "yelpcdn.com": true,
+            "yimg.com": true,
+            "youku.com": true,
+            "youtube-nocookie.com": true,
+            "youtube.com": true,
+            "youwatch.org": true,
+            "ytimg.com": true,
+            "zap2it.com": true,
+            "zdassets.com": true,
+            "zencdn.net": true,
+            "zergnet.com": true,
+            "ziplist.com": true,
+            "zlcdn.com": true,
+            "zombaio.com": true,
+            "zope.net": true,
+            "zopim.com": true,
+            "zvents.com": true
+        },
+        "dnt_hashes": {
+            "41ae62ddfee360fe1e0e7dbae0f35b2dc06212eb": "Preliminary DNT Policy",
+            "76d89351d48f10c633fd1b5273587913f0851367": "Discussion Draft v0.2 in progress feb 2015",
+            "96297930e450cb795004ae5b1fcc88290a2fe982": "Discussion Draft DNT Policy v0.1",
+            "a18e8dba6848d3fc241b03b88291cb75a3cfec3b": "DNT Policy v1.0"
+        },
+        "settings_map": {
+            "checkForDNTPolicy": true,
+            "disabledSites": [],
+            "isFirstRun": false,
+            "migrationLevel": 8,
+            "seenComic": false,
+            "showCounter": true,
+            "socialWidgetReplacementEnabled": true,
+            "webRTCIPProtection": false
+        },
+        "snitch_map": {
+            "app.link": [
+                "vimeo.com"
+            ],
+            "atdmt.com": [
+                "facebook.com"
+            ],
+            "demdex.net": [
+                "adobe.com",
+                "microsoft.com"
+            ],
+            "doubleclick.net": [
+                "youtube.com",
+                "linkedin.com",
+                "sedo.com"
+            ],
+            "facebook.com": [
+                "wordpress.org",
+                "instagram.com",
+                "pinterest.com"
+            ],
+            "flickr.com": [
+                "yahoo.com"
+            ],
+            "google.com": [
+                "youtube.com",
+                "linkedin.com",
+                "wordpress.org"
+            ],
+            "licdn.com": [
+                "linkedin.com"
+            ],
+            "mathtag.com": [
+                "vimeo.com"
+            ],
+            "omtrdc.net": [
+                "adobe.com"
+            ],
+            "quantserve.com": [
+                "wordpress.org",
+                "vimeo.com"
+            ],
+            "scorecardresearch.com": [
+                "linkedin.com",
+                "tumblr.com"
+            ],
+            "statcounter.com": [
+                "hugedomains.com"
+            ],
+            "twitter.com": [
+                "wordpress.org"
+            ],
+            "yahoo.com": [
+                "tumblr.com"
+            ],
+            "yahooapis.com": [
+                "yahoo.com"
+            ],
+            "youtube.com": [
+                "yahoo.com"
+            ]
+        }
+    },
+    "debug_log": [
+        [
+            "Updating action_map['%s'].%s = %s",
+            "logx.optimizely.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "logx.optimizely.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "a3698060313.cdn.optimizely.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "a3698060313.cdn.optimizely.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "img-prod-cms-rt-microsoft-com.akamaized.net",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "img-prod-cms-rt-microsoft-com.akamaized.net",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "az725175.vo.msecnd.net",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "az725175.vo.msecnd.net",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "cdn.optimizely.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "cdn.optimizely.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Origin: goo.gl\tURL: https://goo.gl/"
+        ],
+        [
+            "Origin: goo.gl\tURL: https://goo.gl/?authed=1"
+        ],
+        [
+            "Origin: google.com\tURL: https://accounts.google.com/ServiceLogin?service=urlshortener&continue=https://goo.gl/?authed%3D1&followup=https://goo.gl/?authed%3D1&passive=true&go=true"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "mem.gfx.ms",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "mem.gfx.ms",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Origin: goo.gl\tURL: https://goo.gl/"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "statics-uhf-eus.akamaized.net",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "statics-uhf-eus.akamaized.net",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "logx.optimizely.com",
+            "nextUpdateTime",
+            "1503533131676"
+        ],
+        [
+            "Checking",
+            "logx.optimizely.com",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "a3698060313.cdn.optimizely.com",
+            "nextUpdateTime",
+            "1503651253201"
+        ],
+        [
+            "Checking",
+            "a3698060313.cdn.optimizely.com",
+            "for DNT policy."
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "demdex.net",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "dpm.demdex.net",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "assets.onestore.ms",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "assets.onestore.ms",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "img-prod-cms-rt-microsoft-com.akamaized.net",
+            "nextUpdateTime",
+            "1503726045675"
+        ],
+        [
+            "Checking",
+            "img-prod-cms-rt-microsoft-com.akamaized.net",
+            "for DNT policy."
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "c.s-microsoft.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "c.s-microsoft.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "az725175.vo.msecnd.net",
+            "nextUpdateTime",
+            "1503528988803"
+        ],
+        [
+            "Checking",
+            "az725175.vo.msecnd.net",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "cdn.optimizely.com",
+            "nextUpdateTime",
+            "1503502772768"
+        ],
+        [
+            "Checking",
+            "cdn.optimizely.com",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "mem.gfx.ms",
+            "nextUpdateTime",
+            "1503448000112"
+        ],
+        [
+            "Checking",
+            "mem.gfx.ms",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "statics-uhf-eus.akamaized.net",
+            "nextUpdateTime",
+            "1503609080852"
+        ],
+        [
+            "Checking",
+            "statics-uhf-eus.akamaized.net",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "c.s-microsoft.com",
+            "nextUpdateTime",
+            "1503858549744"
+        ],
+        [
+            "Checking",
+            "c.s-microsoft.com",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "assets.onestore.ms",
+            "nextUpdateTime",
+            "1503547624260"
+        ],
+        [
+            "Checking",
+            "assets.onestore.ms",
+            "for DNT policy."
+        ],
+        [
+            "Origin: microsoft.com\tURL: https://www.microsoft.com/en-us/"
+        ],
+        [
+            "Origin: microsoft.com\tURL: https://www.microsoft.com/en-us/"
+        ],
+        [
+            "Origin: microsoft.com\tURL: https://www.microsoft.com/"
+        ],
+        [
+            "Origin: microsoft.com\tURL: https://microsoft.com/"
+        ],
+        [
+            "Origin: microsoft.com\tURL: http://microsoft.com/"
+        ],
+        [
+            "Origin: flickr.com\tURL: https://www.flickr.com/"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "csync.yahooapis.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "csync.yahooapis.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Origin: flickr.com\tURL: https://www.flickr.com/"
+        ],
+        [
+            "Origin: flickr.com\tURL: http://www.flickr.com/"
+        ],
+        [
+            "Origin: flickr.com\tURL: http://flickr.com/"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "csync.flickr.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "csync.flickr.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "yahooapis.com",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "csync.yahooapis.com",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "csync.yahooapis.com",
+            "nextUpdateTime",
+            "1503569051591"
+        ],
+        [
+            "Checking",
+            "csync.yahooapis.com",
+            "for DNT policy."
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "s.yimg.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "s.yimg.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "flickr.com",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "csync.flickr.com",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "csync.flickr.com",
+            "nextUpdateTime",
+            "1503555818712"
+        ],
+        [
+            "Checking",
+            "csync.flickr.com",
+            "for DNT policy."
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "www.youtube.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "www.youtube.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "u3s.mathtag.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "u3s.mathtag.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "s.yimg.com",
+            "nextUpdateTime",
+            "1503693890369"
+        ],
+        [
+            "Checking",
+            "s.yimg.com",
+            "for DNT policy."
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "mathid.mathtag.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "mathid.mathtag.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "www.youtube.com",
+            "nextUpdateTime",
+            "1503666040640"
+        ],
+        [
+            "Checking",
+            "www.youtube.com",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "youtube.com",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "www.youtube.com",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Origin: yahoo.com\tURL: https://www.yahoo.com/"
+        ],
+        [
+            "Origin: yahoo.com\tURL: https://www.yahoo.com/"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "gtrk.s3.amazonaws.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "gtrk.s3.amazonaws.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Origin: yahoo.com\tURL: http://yahoo.com/"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "ak1s.abmr.net",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "ak1s.abmr.net",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "i2.wp.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "i2.wp.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "pixel.mathtag.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "pixel.mathtag.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "dnn506yrbagrg.cloudfront.net",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "dnn506yrbagrg.cloudfront.net",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "api.branch.io",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "api.branch.io",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "script.crazyegg.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "script.crazyegg.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "i.vimeocdn.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "i.vimeocdn.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "secure.gravatar.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "secure.gravatar.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Origin: youtube.com\tURL: https://www.youtube.com/?feature=youtu.be"
+        ],
+        [
+            "Origin: youtu.be\tURL: http://youtu.be/"
+        ],
+        [
+            "All cookies for mathtag.com deemed low entropy..."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "u3s.mathtag.com",
+            "nextUpdateTime",
+            "1503677968100"
+        ],
+        [
+            "Checking",
+            "u3s.mathtag.com",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "mathid.mathtag.com",
+            "nextUpdateTime",
+            "1503766549589"
+        ],
+        [
+            "Checking",
+            "mathid.mathtag.com",
+            "for DNT policy."
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "app.link",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "app.link",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "gtrk.s3.amazonaws.com",
+            "nextUpdateTime",
+            "1503390151015"
+        ],
+        [
+            "Checking",
+            "gtrk.s3.amazonaws.com",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "ak1s.abmr.net",
+            "nextUpdateTime",
+            "1503445438307"
+        ],
+        [
+            "Checking",
+            "ak1s.abmr.net",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "mathtag.com",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "pixel.mathtag.com",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "i2.wp.com",
+            "nextUpdateTime",
+            "1503439178367"
+        ],
+        [
+            "Checking",
+            "i2.wp.com",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "pixel.mathtag.com",
+            "nextUpdateTime",
+            "1503499170229"
+        ],
+        [
+            "Checking",
+            "pixel.mathtag.com",
+            "for DNT policy."
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "quantserve.com",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "secure.quantserve.com",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "dnn506yrbagrg.cloudfront.net",
+            "nextUpdateTime",
+            "1503619903210"
+        ],
+        [
+            "Checking",
+            "dnn506yrbagrg.cloudfront.net",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "api.branch.io",
+            "nextUpdateTime",
+            "1503703268811"
+        ],
+        [
+            "Checking",
+            "api.branch.io",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "script.crazyegg.com",
+            "nextUpdateTime",
+            "1503570515874"
+        ],
+        [
+            "Checking",
+            "script.crazyegg.com",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "secure.gravatar.com",
+            "nextUpdateTime",
+            "1503741688663"
+        ],
+        [
+            "Checking",
+            "secure.gravatar.com",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "i.vimeocdn.com",
+            "nextUpdateTime",
+            "1503425321479"
+        ],
+        [
+            "Checking",
+            "i.vimeocdn.com",
+            "for DNT policy."
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "app.link",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "app.link",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "www.googletagmanager.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "www.googletagmanager.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "app.link",
+            "nextUpdateTime",
+            "1503700552057"
+        ],
+        [
+            "Checking",
+            "app.link",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "www.googletagmanager.com",
+            "nextUpdateTime",
+            "1503369474194"
+        ],
+        [
+            "Checking",
+            "www.googletagmanager.com",
+            "for DNT policy."
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "f.vimeocdn.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "f.vimeocdn.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "www.googleadservices.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "www.googleadservices.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "www.googleadservices.com",
+            "nextUpdateTime",
+            "1503561338126"
+        ],
+        [
+            "Checking",
+            "www.googleadservices.com",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "f.vimeocdn.com",
+            "nextUpdateTime",
+            "1503774641123"
+        ],
+        [
+            "Checking",
+            "f.vimeocdn.com",
+            "for DNT policy."
+        ],
+        [
+            "Origin: vimeo.com\tURL: https://vimeo.com/"
+        ],
+        [
+            "Origin: vimeo.com\tURL: https://vimeo.com/"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "m.media-amazon.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "m.media-amazon.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "m.media-amazon.com",
+            "nextUpdateTime",
+            "1503401987251"
+        ],
+        [
+            "Checking",
+            "m.media-amazon.com",
+            "for DNT policy."
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "images-na.ssl-images-amazon.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "images-na.ssl-images-amazon.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "images-na.ssl-images-amazon.com",
+            "nextUpdateTime",
+            "1503567698391"
+        ],
+        [
+            "Checking",
+            "images-na.ssl-images-amazon.com",
+            "for DNT policy."
+        ],
+        [
+            "Origin: amazon.com\tURL: https://www.amazon.com/"
+        ],
+        [
+            "Origin: amazon.com\tURL: https://www.amazon.com/"
+        ],
+        [
+            "Origin: amazon.com\tURL: https://amazon.com/"
+        ],
+        [
+            "Origin: amazon.com\tURL: http://amazon.com/"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "udc.yahoo.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "udc.yahoo.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "yahoo.com",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "udc.yahoo.com",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "cookiex.ngd.yahoo.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "cookiex.ngd.yahoo.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "udc.yahoo.com",
+            "nextUpdateTime",
+            "1503354202726"
+        ],
+        [
+            "Checking",
+            "udc.yahoo.com",
+            "for DNT policy."
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "scorecardresearch.com",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "sb.scorecardresearch.com",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "cookiex.ngd.yahoo.com",
+            "nextUpdateTime",
+            "1503794704869"
+        ],
+        [
+            "Checking",
+            "cookiex.ngd.yahoo.com",
+            "for DNT policy."
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "img1.wsimg.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "img1.wsimg.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Origin: tumblr.com\tURL: https://www.tumblr.com/"
+        ],
+        [
+            "Origin: tumblr.com\tURL: https://www.tumblr.com/"
+        ],
+        [
+            "Origin: tumblr.com\tURL: http://tumblr.com/"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "img1.wsimg.com",
+            "nextUpdateTime",
+            "1503740366672"
+        ],
+        [
+            "Checking",
+            "img1.wsimg.com",
+            "for DNT policy."
+        ],
+        [
+            "Origin: godaddy.com\tURL: https://www.godaddy.com/"
+        ],
+        [
+            "Origin: godaddy.com\tURL: https://www.godaddy.com/"
+        ],
+        [
+            "Origin: godaddy.com\tURL: http://godaddy.com/"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "s1.wp.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "s1.wp.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "s0.wp.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "s0.wp.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "s1.wp.com",
+            "nextUpdateTime",
+            "1503393834771"
+        ],
+        [
+            "Checking",
+            "s1.wp.com",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "s0.wp.com",
+            "nextUpdateTime",
+            "1503483464710"
+        ],
+        [
+            "Checking",
+            "s0.wp.com",
+            "for DNT policy."
+        ],
+        [
+            "Origin: wordpress.com\tURL: https://wordpress.com/"
+        ],
+        [
+            "Origin: wordpress.com\tURL: https://wordpress.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "mboxedge20.tt.omtrdc.net",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "mboxedge20.tt.omtrdc.net",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "adobe.tt.omtrdc.net",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "adobe.tt.omtrdc.net",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "les.everesttech.net",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "les.everesttech.net",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "static.adobelogin.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "static.adobelogin.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "use.typekit.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "use.typekit.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://www.apple.com/"
+        ],
+        [
+            "Origin: apple.com\tURL: http://apple.com/"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "api.demandbase.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "api.demandbase.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "mboxedge20.tt.omtrdc.net",
+            "nextUpdateTime",
+            "1503503524677"
+        ],
+        [
+            "Checking",
+            "mboxedge20.tt.omtrdc.net",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "omtrdc.net",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "adobe.tt.omtrdc.net",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "adobe.tt.omtrdc.net",
+            "nextUpdateTime",
+            "1503745370315"
+        ],
+        [
+            "Checking",
+            "adobe.tt.omtrdc.net",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "les.everesttech.net",
+            "nextUpdateTime",
+            "1503486075323"
+        ],
+        [
+            "Checking",
+            "les.everesttech.net",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "static.adobelogin.com",
+            "nextUpdateTime",
+            "1503846437488"
+        ],
+        [
+            "Checking",
+            "static.adobelogin.com",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "use.typekit.com",
+            "nextUpdateTime",
+            "1503358581947"
+        ],
+        [
+            "Checking",
+            "use.typekit.com",
+            "for DNT policy."
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "api.demandbase.com",
+            "nextUpdateTime",
+            "1503402026439"
+        ],
+        [
+            "Checking",
+            "api.demandbase.com",
+            "for DNT policy."
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "dpm.demdex.net",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "dpm.demdex.net",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "demdex.net",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "dpm.demdex.net",
+            "heuristicAction",
+            "allow"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "dpm.demdex.net",
+            "nextUpdateTime",
+            "1503675508923"
+        ],
+        [
+            "Checking",
+            "dpm.demdex.net",
+            "for DNT policy."
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "assets.adobedtm.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "assets.adobedtm.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "assets.adobedtm.com",
+            "nextUpdateTime",
+            "1503868166297"
+        ],
+        [
+            "Checking",
+            "assets.adobedtm.com",
+            "for DNT policy."
+        ],
+        [
+            "Origin: adobe.com\tURL: http://www.adobe.com/"
+        ],
+        [
+            "Origin: adobe.com\tURL: http://adobe.com/"
+        ],
+        [
+            "Updating action_map['%s'].%s = %s",
+            "lh3.googleusercontent.com",
+            "dnt",
+            "false"
+        ],
+        [
+            "It looks like",
+            "lh3.googleusercontent.com",
+            "has NOT adopted Do Not Track"
+        ],
+        [
+            "Initializing action_map['%s'].%s = %s",
+            "lh3.googleusercontent.com",
+            "nextUpdateTime",
+            "1503738971690"
+        ],
+        [
+            "Checking",
+            "lh3.googleusercontent.com",
+            "for DNT policy."
+        ],
+        [
+            "Origin: blogger.com\tURL: https://www.blogger.com/about/?r=1-null_user"
+        ],
+        [
+            "Origin: blogger.com\tURL: https://www.blogger.com/?rinli=1"
+        ],
+        [
+            "Origin: google.com\tURL: https://accounts.google.com/ServiceLogin?service=blogger&hl=en&passive=true&go=true&continue=https://www.blogger.com?rinli%3D1"
+        ],
+        [
+            "Origin: blogger.com\tURL: https://www.blogger.com/"
+        ]
+    ],
+    "mem_usage": "Browser 69 MB private, 109 MB shared, 347 FDs open of 4096\nExtension [Privacy Badger|Privacy Badger] 36 MB private, 68 MB shared, -1 FDs open of 1024\nTab [data:,] 18 MB private, 57 MB shared, -1 FDs open of 1024\nExtension [Chrome Automation Extension] 15 MB private, 50 MB shared, -1 FDs open of 1024\nGPU [] 14 MB private, 42 MB shared, 39 FDs open of 4096\nTab 13 MB private, 47 MB shared, -1 FDs open of 1024\nZygote 9 MB private, 2 MB shared, -1 FDs open of 1024"
+}
