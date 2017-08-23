@@ -84,18 +84,11 @@ function getScPageScript() {
       return lsItems;
     };
 
-    var getFileSystemAPIItems = function(){
-      // TODO: See "Reading a directory's contents" on
-      // http://www.html5rocks.com/en/tutorials/file/filesystem/
-      return {};
-    };
-
     if (event_id){  // inserted script may run before the event_id is available
       // send to content script. TODO: Any other detail we need to send?
       send(
         { docUrl: document.location.href,
           localStorageItems: getLocalStorageItems(),
-          fileSystemAPIItems: getFileSystemAPIItems()
         });
     }
 

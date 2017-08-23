@@ -706,9 +706,6 @@ Badger.prototype = {
   hasSuperCookie: function(storageItems) {
     return (
       this.hasLocalStorageSuperCookie(storageItems.localStorageItems)
-      // || Utils.hasLocalStorageSuperCookie(storageItems.fileSystemAPIItems)
-      // TODO: Do we need separate functions for other supercookie vectors?
-      // Let's wait until we implement them in the content script
     );
   },
 
