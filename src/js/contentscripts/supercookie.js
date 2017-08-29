@@ -26,13 +26,13 @@
  * @param {Object} data a dictionary containing attribut-value pairs
  */
 function insertScScript(text, data) {
-  var parent = document.documentElement,
+  let parent = document.documentElement,
     script = document.createElement('script');
 
   script.text = text;
   script.async = false;
 
-  for (var key in data) {
+  for (let key in data) {
     script.setAttribute('data-' + key.replace(/_/g, "-"), data[key]);
   }
 
@@ -52,7 +52,7 @@ function getScPageScript() {
   // return a string
   return "(" + function () {
 
-    var event_id = document.currentScript.getAttribute('data-event-id');
+    let event_id = document.currentScript.getAttribute('data-event-id');
     document.addEventListener(event_id, e => {
       if (e.detail.enabledAndThirdParty) {
         run();
@@ -65,10 +65,10 @@ function getScPageScript() {
      * @returns {{}}
      */
     let getLocalStorageItems = () => {
-      var lsItems = {};
-      var lsKey = "";
+      let lsItems = {};
+      let lsKey = "";
       try{
-        for (var i = 0; i < localStorage.length; i++) {
+        for (let i = 0; i < localStorage.length; i++) {
           lsKey = localStorage.key(i);
           lsItems[lsKey] = localStorage.getItem(lsKey);
         }
@@ -101,7 +101,7 @@ function getScPageScript() {
   // code above is not a content script: no chrome.* APIs /////////////////////
 }
 
-var event_id = Math.random();
+let event_id = Math.random();
 
 document.addEventListener(event_id, function (e) {
   // pass messages from the page to the background page
