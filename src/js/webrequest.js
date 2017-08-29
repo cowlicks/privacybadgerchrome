@@ -666,9 +666,11 @@ function dispatcher(request, sender, sendResponse) {
     }
 
   } else if (request.superCookieReport) {
-    if (badger.hasSuperCookie(request.superCookieReport)){
+    let hasSuperCookie = badger.hasSuperCookie(request.superCookieReport);
+    if (hasSuperCookie) {
       recordSuperCookie(sender);
     }
+    sendResponse(hasSuperCookie);
   } else if (request.checkEnabledAndThirdParty) {
     var pageHost = window.extractHostFromURL(sender.url);
     sendResponse(badger.isPrivacyBadgerEnabled(tabHost) && isThirdPartyDomain(pageHost, tabHost));

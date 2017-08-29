@@ -40,7 +40,6 @@ function insertScScript(text, data) {
   parent.removeChild(script);
 }
 
-
 /**
  * Generate script to inject into the page
  *
@@ -53,12 +52,23 @@ function getScPageScript() {
   return "(" + function () {
 
     let event_id = document.currentScript.getAttribute('data-event-id');
-    document.addEventListener(event_id, e => {
-      if (e.detail.enabledAndThirdParty) {
-        run();
-      }
-    });
 
+    let startHandler = e => {
+      if (e.detail.enabledAndThirdParty) {
+        // rm this handler
+        document.removeEventListener(event_id, startHandler);
+        // start checking for supercookies
+        let stop_id = start();
+
+        let stopHandler = e2 => {
+          if (e2.detail.hasSuperCookie) {
+            // stop checking for supercookies
+            clearInterval(stop_id);
+          }
+        };
+        document.addEventListener(event_id, stopHandler);
+      }
+    };
 
     /**
      * Read the local storage and returns content
@@ -91,12 +101,12 @@ function getScPageScript() {
       }));
     };
 
-    let run = () => {
-      if (event_id){
-        // send to content script.
-        send({localStorageItems: getLocalStorageItems()});
-      }
+    let start = () => {
+      send({localStorageItems: getLocalStorageItems()});
+      return setInterval(() => send({localStorageItems: getLocalStorageItems()}), 4000);
     };
+
+    document.addEventListener(event_id, startHandler);
   } + "());";
   // code above is not a content script: no chrome.* APIs /////////////////////
 }
@@ -108,6 +118,13 @@ document.addEventListener(event_id, function (e) {
   if ('localStorageItems' in e.detail) {
     chrome.runtime.sendMessage({
       'superCookieReport': e.detail
+    }, hasSuperCookie => {
+      if (hasSuperCookie) {
+        // super cookie found, message page so it will stop searching
+        document.dispatchEvent(new CustomEvent(event_id, {
+          detail: {hasSuperCookie}
+        }));
+      }
     });
   }
 });
