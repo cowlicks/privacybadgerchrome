@@ -18,6 +18,7 @@
  * along with Privacy Badger.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+(function() {
 /**
  * Insert script into page
  *
@@ -51,24 +52,19 @@ function getScPageScript() {
   // return a string
   return "(" + function () {
 
-    var event_id = document.currentScript.getAttribute('data-event-id-super-cookie');
+    var event_id = document.currentScript.getAttribute('data-event-id');
+    document.addEventListener(event_id, e => {
+      if (e.detail.enabledAndThirdParty) {
+        run();
+      }
+    });
 
-    /**
-     * send message to the content script
-     *
-     * @param message
-     */
-    var send = function (message) {
-      document.dispatchEvent(new CustomEvent(event_id, {
-        detail: message
-      }));
-    };
 
     /**
      * Read the local storage and returns content
      * @returns {{}}
      */
-    var getLocalStorageItems = function(){
+    let getLocalStorageItems = () => {
       var lsItems = {};
       var lsKey = "";
       try{
@@ -84,41 +80,50 @@ function getScPageScript() {
       return lsItems;
     };
 
-    if (event_id){  // inserted script may run before the event_id is available
-      // send to content script. TODO: Any other detail we need to send?
-      send(
-        { docUrl: document.location.href,
-          localStorageItems: getLocalStorageItems(),
-        });
-    }
+    /**
+     * send message to the content script
+     *
+     * @param message
+     */
+    let send = (message) => {
+      document.dispatchEvent(new CustomEvent(event_id, {
+        detail: message
+      }));
+    };
 
+    let run = () => {
+      if (event_id){
+        // send to content script.
+        send({localStorageItems: getLocalStorageItems()});
+      }
+    };
   } + "());";
-
   // code above is not a content script: no chrome.* APIs /////////////////////
-
 }
 
-// TODO race condition; fix waiting on https://crbug.com/478183
-chrome.runtime.sendMessage({
-  checkEnabledAndThirdParty: true
-}, function (enabledAndThirdParty) {
-  if (!enabledAndThirdParty) {
-    return;
-  }
+var event_id = Math.random();
 
-  var event_id_super_cookie = Math.random();
-
-  // listen for messages from the script we are about to insert
-  document.addEventListener(event_id_super_cookie, function (e) {
-    // pass these on to the background page (handled by webrequest.js)
+document.addEventListener(event_id, function (e) {
+  // pass messages from the page to the background page
+  if ('localStorageItems' in e.detail) {
     chrome.runtime.sendMessage({
       'superCookieReport': e.detail
     });
-  });
-
-  // console.log("Will search for supercookies at", document.location.href)
-  insertScScript(getScPageScript(), {
-    event_id_super_cookie: event_id_super_cookie
-  });
-
+  }
 });
+
+// insert the script into the page
+insertScScript(getScPageScript(), {
+  event_id: event_id,
+});
+
+// check if enabled for this page
+chrome.runtime.sendMessage({
+  checkEnabledAndThirdParty: true
+}, enabledAndThirdParty => {
+  document.dispatchEvent(new CustomEvent(event_id, {
+    detail: {enabledAndThirdParty}
+  }));
+});
+
+})();
