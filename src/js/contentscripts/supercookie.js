@@ -41,24 +41,24 @@ let makeNameSpace = () => {
   };
 };
 
-let superCookieFunction = () => {
+let superCookieFunction = (ns) => {
   // code below is not a content script: no chrome.* APIs /////////////////////
-  let event_id = document.currentScript.getAttribute('data-event-id');
+  let event_id = ns.getAttribute('data-event-id');
 
   let startHandler = e => {
     if (e.detail.enabledAndThirdParty) {
       // rm this handler
-      document.removeEventListener(event_id, startHandler);
+      ns.removeEventListener(event_id, startHandler);
       // start checking for supercookies
       let stop_id = start();
 
       let stopHandler = e2 => {
         if (e2.detail.hasSuperCookie) {
           // stop checking for supercookies
-          clearInterval(stop_id);
+          ns.clearInterval(stop_id);
         }
       };
-      document.addEventListener(event_id, stopHandler);
+      ns.addEventListener(event_id, stopHandler);
     }
   };
 
@@ -70,9 +70,9 @@ let superCookieFunction = () => {
     let lsItems = {};
     let lsKey = "";
     try{
-      for (let i = 0; i < localStorage.length; i++) {
-        lsKey = localStorage.key(i);
-        lsItems[lsKey] = localStorage.getItem(lsKey);
+      for (let i = 0; i < ns.localStorage.length; i++) {
+        lsKey = ns.localStorage.key(i);
+        lsItems[lsKey] = ns.localStorage.getItem(lsKey);
       }
     } catch(err){
       // We get a SecurityError when our injected script runs in a 3rd party frame and
@@ -88,17 +88,17 @@ let superCookieFunction = () => {
    * @param message
    */
   let send = (message) => {
-    document.dispatchEvent(new CustomEvent(event_id, {
+    ns.dispatchEvent(new ns.CustomEvent(event_id, {
       detail: message
     }));
   };
 
   let start = () => {
     send({localStorageItems: getLocalStorageItems()});
-    return setInterval(() => send({localStorageItems: getLocalStorageItems()}), 4000);
+    return ns.setInterval(() => send({localStorageItems: getLocalStorageItems()}), 4000);
   };
 
-  document.addEventListener(event_id, startHandler);
+  ns.addEventListener(event_id, startHandler);
   // code above is not a content script: no chrome.* APIs /////////////////////
 };
 
@@ -125,11 +125,15 @@ function insertScScript(text, data) {
 
 /**
  * Generate script to inject into the page
- * @param {String} text of a function
+ * @param {String} function that makes a namespace
+ * @param {String} function that runs in the page context and uses the namespace
  * @returns {String}
  */
-function getScPageScript(functionString) {
-  return '(' + functionString + ')();';
+function getScPageScript(makeNameSpaceFunctionString, scriptString) {
+  return `(function() {
+    let ns = (${makeNameSpaceFunctionString})();
+    (${scriptString})(ns)+ ')();';
+  })();`;
 }
 
 let event_id = Math.random();
@@ -151,7 +155,7 @@ document.addEventListener(event_id, function (e) {
 });
 
 // insert the script into the page
-insertScScript(getScPageScript(superCookieFunction.toString()), {
+insertScScript(getScPageScript(makeNameSpace.toString(), superCookieFunction.toString()), {
   event_id: event_id,
 });
 
