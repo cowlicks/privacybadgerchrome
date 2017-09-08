@@ -20,6 +20,27 @@
 
 (function() {
 
+let makeNameSpace = () => {
+  let ls = localStorage,
+    lsLength = Object.getOwnPropertyDescriptor(Object.getPrototypeOf(ls), 'length').get.bind(ls);
+  return {
+    getAttribute: document.currentScript.getAttribute.bind(document.currentScript),
+    removeEventListener: document.removeEventListener.bind(document),
+    addEventListener: document.addEventListener.bind(document),
+    dispatchEvent: document.dispatchEvent.bind(document),
+    CustomEvent: CustomEvent,
+    clearInterval: clearInterval.bind(window),
+    setInterval: setInterval.bind(window),
+    localStorage: {
+      get length() {
+        return lsLength();
+      },
+      getItem: ls.getItem.bind(ls),
+      key: ls.key.bind(ls),
+    },
+  };
+};
+
 let superCookieFunction = () => {
   // code below is not a content script: no chrome.* APIs /////////////////////
   let event_id = document.currentScript.getAttribute('data-event-id');
