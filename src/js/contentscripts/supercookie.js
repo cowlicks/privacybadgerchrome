@@ -18,6 +18,47 @@
  * along with Privacy Badger.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+/**
+ * Set the a property on the `target` named `propName`, the property comes from
+ * `propBase` or its's prototypes.
+ */
+function setProp(target, propBase, propName) {
+  let context = propBase;
+  while (!propBase.hasOwnProperty(propName)) {
+    propBase = Object.getPrototypeOf(propBase);
+  }
+  let descriptor = Object.getOwnPropertyDescriptor(propBase, propName);
+  if (descriptor.hasOwnProperty('value')) {
+    // data descriptor
+    descriptor.value = descriptor.value.bind(context);
+  } else {
+    // accessor descriptor
+    descriptor.get = descriptor.get.bind(context);
+  }
+  Object.defineProperty(target, propName, descriptor);
+}
+
+/**
+ * Attach a property from the global namespace, addressed by `name` to `obj`.
+ * This lets you keep protected references to builtins.
+ *
+ * Todo: keep real references to intermediate objects but wrapped in Proxy's
+ */
+function builder(obj, name) {
+  let parts = name.split('.'),
+    last = parts.pop(),
+    memo = window,
+    objPart = obj;
+  parts.forEach(part => {
+    memo = memo[part];
+    if (!objPart.hasOwnProperty(part)) {
+      objPart[part] = {};
+    }
+    objPart = objPart[part];
+  });
+  setProp(objPart, memo, last);
+}
+
 (function() {
 
 let makeNameSpace = () => {
